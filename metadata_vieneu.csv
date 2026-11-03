@@ -1,0 +1,1001 @@
+﻿id,text,audio_path,generator,sample_rate,duration_sec,channels
+1,Tôi đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0001.wav,VieNeu-TTS,48000,1.84,1
+2,Tôi đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0002.wav,VieNeu-TTS,48000,1.84,1
+3,Tôi đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0003.wav,VieNeu-TTS,48000,1.84,1
+4,Tôi đã ghi nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0004.wav,VieNeu-TTS,48000,2.0,1
+5,Tôi đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0005.wav,VieNeu-TTS,48000,2.0,1
+6,Tôi đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0006.wav,VieNeu-TTS,48000,1.92,1
+7,Tôi đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0007.wav,VieNeu-TTS,48000,2.0,1
+8,Tôi đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0008.wav,VieNeu-TTS,48000,1.92,1
+9,Tôi đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0009.wav,VieNeu-TTS,48000,2.16,1
+10,Tôi đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0010.wav,VieNeu-TTS,48000,2.08,1
+11,Tôi đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0011.wav,VieNeu-TTS,48000,1.92,1
+12,Tôi đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0012.wav,VieNeu-TTS,48000,1.92,1
+13,Tôi đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0013.wav,VieNeu-TTS,48000,2.0,1
+14,Tôi đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0014.wav,VieNeu-TTS,48000,1.92,1
+15,Tôi đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0015.wav,VieNeu-TTS,48000,1.92,1
+16,Tôi đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0016.wav,VieNeu-TTS,48000,1.92,1
+17,Tôi đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0017.wav,VieNeu-TTS,48000,2.0,1
+18,Tôi đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0018.wav,VieNeu-TTS,48000,2.08,1
+19,Tôi đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0019.wav,VieNeu-TTS,48000,2.08,1
+20,Tôi đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0020.wav,VieNeu-TTS,48000,1.92,1
+21,Tôi đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0021.wav,VieNeu-TTS,48000,1.92,1
+22,Tôi đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0022.wav,VieNeu-TTS,48000,2.08,1
+23,Tôi đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0023.wav,VieNeu-TTS,48000,2.0,1
+24,Tôi đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0024.wav,VieNeu-TTS,48000,1.92,1
+25,Tôi đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0025.wav,VieNeu-TTS,48000,1.92,1
+26,Tôi đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0026.wav,VieNeu-TTS,48000,1.92,1
+27,Tôi đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0027.wav,VieNeu-TTS,48000,2.16,1
+28,Tôi đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0028.wav,VieNeu-TTS,48000,1.84,1
+29,Tôi đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0029.wav,VieNeu-TTS,48000,2.24,1
+30,Tôi đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0030.wav,VieNeu-TTS,48000,2.0,1
+31,Tôi đang xử lý yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0031.wav,VieNeu-TTS,48000,1.84,1
+32,Tôi đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0032.wav,VieNeu-TTS,48000,1.92,1
+33,Tôi đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0033.wav,VieNeu-TTS,48000,1.92,1
+34,Tôi đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0034.wav,VieNeu-TTS,48000,2.0,1
+35,Tôi đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0035.wav,VieNeu-TTS,48000,2.16,1
+36,Tôi đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0036.wav,VieNeu-TTS,48000,2.0,1
+37,Tôi đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0037.wav,VieNeu-TTS,48000,1.84,1
+38,Tôi đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0038.wav,VieNeu-TTS,48000,1.84,1
+39,Tôi đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0039.wav,VieNeu-TTS,48000,2.24,1
+40,Tôi đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0040.wav,VieNeu-TTS,48000,1.84,1
+41,Tôi xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0041.wav,VieNeu-TTS,48000,2.0,1
+42,Tôi xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0042.wav,VieNeu-TTS,48000,2.16,1
+43,Tôi xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0043.wav,VieNeu-TTS,48000,2.08,1
+44,Tôi xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0044.wav,VieNeu-TTS,48000,2.0,1
+45,Tôi xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0045.wav,VieNeu-TTS,48000,2.16,1
+46,Tôi xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0046.wav,VieNeu-TTS,48000,2.08,1
+47,Tôi xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0047.wav,VieNeu-TTS,48000,2.08,1
+48,Tôi xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0048.wav,VieNeu-TTS,48000,1.92,1
+49,Tôi xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0049.wav,VieNeu-TTS,48000,2.32,1
+50,Tôi xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0050.wav,VieNeu-TTS,48000,2.0,1
+51,Tôi sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0051.wav,VieNeu-TTS,48000,1.76,1
+52,Tôi sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0052.wav,VieNeu-TTS,48000,2.08,1
+53,Tôi sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0053.wav,VieNeu-TTS,48000,1.92,1
+54,Tôi sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0054.wav,VieNeu-TTS,48000,2.0,1
+55,Tôi sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0055.wav,VieNeu-TTS,48000,2.08,1
+56,Tôi sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0056.wav,VieNeu-TTS,48000,2.08,1
+57,Tôi sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0057.wav,VieNeu-TTS,48000,2.08,1
+58,Tôi sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0058.wav,VieNeu-TTS,48000,2.0,1
+59,Tôi sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0059.wav,VieNeu-TTS,48000,2.24,1
+60,Tôi sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0060.wav,VieNeu-TTS,48000,2.0,1
+61,Tôi đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0061.wav,VieNeu-TTS,48000,1.84,1
+62,Tôi đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0062.wav,VieNeu-TTS,48000,2.0,1
+63,Tôi đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0063.wav,VieNeu-TTS,48000,2.0,1
+64,Tôi đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0064.wav,VieNeu-TTS,48000,2.08,1
+65,Tôi đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0065.wav,VieNeu-TTS,48000,2.08,1
+66,Tôi đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0066.wav,VieNeu-TTS,48000,1.84,1
+67,Tôi đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0067.wav,VieNeu-TTS,48000,1.92,1
+68,Tôi đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0068.wav,VieNeu-TTS,48000,1.76,1
+69,Tôi đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0069.wav,VieNeu-TTS,48000,2.08,1
+70,Tôi đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0070.wav,VieNeu-TTS,48000,2.0,1
+71,Tôi đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0071.wav,VieNeu-TTS,48000,1.84,1
+72,Tôi đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0072.wav,VieNeu-TTS,48000,1.84,1
+73,Tôi đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0073.wav,VieNeu-TTS,48000,2.08,1
+74,Tôi đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0074.wav,VieNeu-TTS,48000,1.92,1
+75,Tôi đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0075.wav,VieNeu-TTS,48000,2.0,1
+76,Tôi đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0076.wav,VieNeu-TTS,48000,2.08,1
+77,Tôi đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0077.wav,VieNeu-TTS,48000,2.0,1
+78,Tôi đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0078.wav,VieNeu-TTS,48000,1.92,1
+79,Tôi đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0079.wav,VieNeu-TTS,48000,2.32,1
+80,Tôi đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0080.wav,VieNeu-TTS,48000,1.92,1
+81,Tôi xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0081.wav,VieNeu-TTS,48000,2.08,1
+82,Tôi xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0082.wav,VieNeu-TTS,48000,2.24,1
+83,Tôi xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0083.wav,VieNeu-TTS,48000,2.08,1
+84,Tôi xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0084.wav,VieNeu-TTS,48000,2.0,1
+85,Tôi xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0085.wav,VieNeu-TTS,48000,2.08,1
+86,Tôi xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0086.wav,VieNeu-TTS,48000,1.84,1
+87,Tôi xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0087.wav,VieNeu-TTS,48000,2.16,1
+88,Tôi xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0088.wav,VieNeu-TTS,48000,2.0,1
+89,Tôi xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0089.wav,VieNeu-TTS,48000,2.24,1
+90,Tôi xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0090.wav,VieNeu-TTS,48000,2.16,1
+91,Tôi sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0091.wav,VieNeu-TTS,48000,2.08,1
+92,Tôi sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0092.wav,VieNeu-TTS,48000,2.24,1
+93,Tôi sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0093.wav,VieNeu-TTS,48000,2.16,1
+94,Tôi sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0094.wav,VieNeu-TTS,48000,2.16,1
+95,Tôi sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0095.wav,VieNeu-TTS,48000,2.24,1
+96,Tôi sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0096.wav,VieNeu-TTS,48000,2.48,1
+97,Tôi sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0097.wav,VieNeu-TTS,48000,2.16,1
+98,Tôi sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0098.wav,VieNeu-TTS,48000,2.16,1
+99,Tôi sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0099.wav,VieNeu-TTS,48000,2.32,1
+100,Tôi sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0100.wav,VieNeu-TTS,48000,2.24,1
+101,Bạn đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0101.wav,VieNeu-TTS,48000,1.68,1
+102,Bạn đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0102.wav,VieNeu-TTS,48000,2.0,1
+103,Bạn đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0103.wav,VieNeu-TTS,48000,2.0,1
+104,Đăng ký thành công. Vui lòng chờ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0104.wav,VieNeu-TTS,48000,1.76,1
+105,Bạn đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0105.wav,VieNeu-TTS,48000,2.0,1
+106,Bạn đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0106.wav,VieNeu-TTS,48000,1.84,1
+107,Bạn đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0107.wav,VieNeu-TTS,48000,1.76,1
+108,Bạn đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0108.wav,VieNeu-TTS,48000,2.0,1
+109,Bạn đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0109.wav,VieNeu-TTS,48000,2.08,1
+110,Bạn đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0110.wav,VieNeu-TTS,48000,1.92,1
+111,Bạn đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0111.wav,VieNeu-TTS,48000,2.0,1
+112,Bạn đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0112.wav,VieNeu-TTS,48000,2.0,1
+113,Bạn đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0113.wav,VieNeu-TTS,48000,2.08,1
+114,Bạn đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0114.wav,VieNeu-TTS,48000,1.92,1
+115,Bạn đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0115.wav,VieNeu-TTS,48000,1.84,1
+116,Bạn đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0116.wav,VieNeu-TTS,48000,2.0,1
+117,Bạn đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0117.wav,VieNeu-TTS,48000,1.84,1
+118,Bạn đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0118.wav,VieNeu-TTS,48000,2.0,1
+119,Bạn đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0119.wav,VieNeu-TTS,48000,2.16,1
+120,Bạn đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0120.wav,VieNeu-TTS,48000,2.0,1
+121,Bạn đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0121.wav,VieNeu-TTS,48000,1.92,1
+122,Bạn đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0122.wav,VieNeu-TTS,48000,1.84,1
+123,Bạn đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0123.wav,VieNeu-TTS,48000,1.84,1
+124,Bạn đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0124.wav,VieNeu-TTS,48000,2.16,1
+125,Bạn đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0125.wav,VieNeu-TTS,48000,2.0,1
+126,Bạn đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0126.wav,VieNeu-TTS,48000,1.92,1
+127,Bạn đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0127.wav,VieNeu-TTS,48000,1.92,1
+128,Bạn đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0128.wav,VieNeu-TTS,48000,1.92,1
+129,Bạn đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0129.wav,VieNeu-TTS,48000,2.32,1
+130,Bạn đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0130.wav,VieNeu-TTS,48000,2.08,1
+131,Yêu cầu đang được xử lý. Vui lòng chờ trong giây lát.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0131.wav,VieNeu-TTS,48000,3.04,1
+132,Bạn đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0132.wav,VieNeu-TTS,48000,2.16,1
+133,Bạn đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0133.wav,VieNeu-TTS,48000,1.92,1
+134,Bạn đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0134.wav,VieNeu-TTS,48000,2.16,1
+135,Bạn đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0135.wav,VieNeu-TTS,48000,2.0,1
+136,Bạn đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0136.wav,VieNeu-TTS,48000,2.0,1
+137,Bạn đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0137.wav,VieNeu-TTS,48000,1.84,1
+138,Bạn đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0138.wav,VieNeu-TTS,48000,1.84,1
+139,Bạn đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0139.wav,VieNeu-TTS,48000,2.24,1
+140,Bạn đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0140.wav,VieNeu-TTS,48000,1.76,1
+141,Bạn xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0141.wav,VieNeu-TTS,48000,1.84,1
+142,Bạn xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0142.wav,VieNeu-TTS,48000,2.0,1
+143,Bạn xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0143.wav,VieNeu-TTS,48000,2.0,1
+144,Bạn xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0144.wav,VieNeu-TTS,48000,2.08,1
+145,Bạn xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0145.wav,VieNeu-TTS,48000,2.24,1
+146,Bạn xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0146.wav,VieNeu-TTS,48000,1.92,1
+147,Bạn xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0147.wav,VieNeu-TTS,48000,1.92,1
+148,Bạn xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0148.wav,VieNeu-TTS,48000,2.16,1
+149,Bạn xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0149.wav,VieNeu-TTS,48000,2.16,1
+150,Bạn xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0150.wav,VieNeu-TTS,48000,2.0,1
+151,Bạn sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0151.wav,VieNeu-TTS,48000,1.76,1
+152,Bạn sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0152.wav,VieNeu-TTS,48000,2.0,1
+153,Bạn sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0153.wav,VieNeu-TTS,48000,2.0,1
+154,Bạn sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0154.wav,VieNeu-TTS,48000,1.92,1
+155,Bạn sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0155.wav,VieNeu-TTS,48000,1.92,1
+156,Bạn sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0156.wav,VieNeu-TTS,48000,1.92,1
+157,Bạn sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0157.wav,VieNeu-TTS,48000,2.0,1
+158,Bạn sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0158.wav,VieNeu-TTS,48000,1.84,1
+159,Bạn sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0159.wav,VieNeu-TTS,48000,2.24,1
+160,Bạn sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0160.wav,VieNeu-TTS,48000,2.0,1
+161,Bạn đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0161.wav,VieNeu-TTS,48000,1.92,1
+162,Bạn đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0162.wav,VieNeu-TTS,48000,1.92,1
+163,Bạn đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0163.wav,VieNeu-TTS,48000,1.92,1
+164,Bạn đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0164.wav,VieNeu-TTS,48000,1.92,1
+165,Bạn đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0165.wav,VieNeu-TTS,48000,1.76,1
+166,Bạn đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0166.wav,VieNeu-TTS,48000,1.84,1
+167,Bạn đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0167.wav,VieNeu-TTS,48000,2.08,1
+168,Bạn đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0168.wav,VieNeu-TTS,48000,2.08,1
+169,Bạn đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0169.wav,VieNeu-TTS,48000,2.32,1
+170,Bạn đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0170.wav,VieNeu-TTS,48000,1.84,1
+171,Bạn đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0171.wav,VieNeu-TTS,48000,1.84,1
+172,Bạn đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0172.wav,VieNeu-TTS,48000,2.08,1
+173,Bạn đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0173.wav,VieNeu-TTS,48000,2.08,1
+174,Bạn đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0174.wav,VieNeu-TTS,48000,2.16,1
+175,Bạn đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0175.wav,VieNeu-TTS,48000,2.16,1
+176,Bạn đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0176.wav,VieNeu-TTS,48000,2.16,1
+177,Bạn đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0177.wav,VieNeu-TTS,48000,1.84,1
+178,Bạn đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0178.wav,VieNeu-TTS,48000,2.0,1
+179,Bạn đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0179.wav,VieNeu-TTS,48000,2.0,1
+180,Bạn đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0180.wav,VieNeu-TTS,48000,2.0,1
+181,Bạn xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0181.wav,VieNeu-TTS,48000,2.0,1
+182,Bạn xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0182.wav,VieNeu-TTS,48000,2.0,1
+183,Bạn xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0183.wav,VieNeu-TTS,48000,2.08,1
+184,Bạn xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0184.wav,VieNeu-TTS,48000,1.92,1
+185,Bạn xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0185.wav,VieNeu-TTS,48000,1.92,1
+186,Bạn xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0186.wav,VieNeu-TTS,48000,2.0,1
+187,Bạn xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0187.wav,VieNeu-TTS,48000,2.0,1
+188,Bạn xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0188.wav,VieNeu-TTS,48000,2.08,1
+189,Bạn xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0189.wav,VieNeu-TTS,48000,2.4,1
+190,Bạn xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0190.wav,VieNeu-TTS,48000,1.84,1
+191,Bạn sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0191.wav,VieNeu-TTS,48000,2.08,1
+192,Bạn sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0192.wav,VieNeu-TTS,48000,2.08,1
+193,Bạn sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0193.wav,VieNeu-TTS,48000,2.24,1
+194,Bạn sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0194.wav,VieNeu-TTS,48000,2.16,1
+195,Bạn sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0195.wav,VieNeu-TTS,48000,2.32,1
+196,Bạn sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0196.wav,VieNeu-TTS,48000,2.24,1
+197,Bạn sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0197.wav,VieNeu-TTS,48000,2.16,1
+198,Bạn sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0198.wav,VieNeu-TTS,48000,2.08,1
+199,Bạn sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0199.wav,VieNeu-TTS,48000,2.24,1
+200,Bạn sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0200.wav,VieNeu-TTS,48000,2.08,1
+201,Chúng tôi đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0201.wav,VieNeu-TTS,48000,2.08,1
+202,Chúng tôi đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0202.wav,VieNeu-TTS,48000,2.24,1
+203,Chúng tôi đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0203.wav,VieNeu-TTS,48000,2.24,1
+204,Chúng tôi đã ghi nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0204.wav,VieNeu-TTS,48000,2.08,1
+205,Chúng tôi đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0205.wav,VieNeu-TTS,48000,2.32,1
+206,Chúng tôi đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0206.wav,VieNeu-TTS,48000,2.32,1
+207,Chúng tôi đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0207.wav,VieNeu-TTS,48000,2.32,1
+208,Chúng tôi đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0208.wav,VieNeu-TTS,48000,2.08,1
+209,Chúng tôi đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0209.wav,VieNeu-TTS,48000,2.24,1
+210,Chúng tôi đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0210.wav,VieNeu-TTS,48000,2.24,1
+211,Chúng tôi đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0211.wav,VieNeu-TTS,48000,2.16,1
+212,Chúng tôi đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0212.wav,VieNeu-TTS,48000,2.16,1
+213,Chúng tôi đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0213.wav,VieNeu-TTS,48000,2.16,1
+214,Chúng tôi đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0214.wav,VieNeu-TTS,48000,2.0,1
+215,Chúng tôi đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0215.wav,VieNeu-TTS,48000,2.08,1
+216,Chúng tôi đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0216.wav,VieNeu-TTS,48000,2.32,1
+217,Chúng tôi đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0217.wav,VieNeu-TTS,48000,2.08,1
+218,Chúng tôi đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0218.wav,VieNeu-TTS,48000,2.0,1
+219,Chúng tôi đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0219.wav,VieNeu-TTS,48000,2.4,1
+220,Chúng tôi đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0220.wav,VieNeu-TTS,48000,2.32,1
+221,Chúng tôi đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0221.wav,VieNeu-TTS,48000,2.16,1
+222,Chúng tôi đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0222.wav,VieNeu-TTS,48000,2.16,1
+223,Chúng tôi đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0223.wav,VieNeu-TTS,48000,2.08,1
+224,Chúng tôi đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0224.wav,VieNeu-TTS,48000,2.16,1
+225,Chúng tôi đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0225.wav,VieNeu-TTS,48000,2.16,1
+226,Chúng tôi đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0226.wav,VieNeu-TTS,48000,2.16,1
+227,Chúng tôi đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0227.wav,VieNeu-TTS,48000,2.32,1
+228,Chúng tôi đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0228.wav,VieNeu-TTS,48000,2.08,1
+229,Chúng tôi đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0229.wav,VieNeu-TTS,48000,2.56,1
+230,Chúng tôi đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0230.wav,VieNeu-TTS,48000,2.16,1
+231,Chúng tôi đang xử lý yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0231.wav,VieNeu-TTS,48000,2.24,1
+232,Chúng tôi đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0232.wav,VieNeu-TTS,48000,2.32,1
+233,Chúng tôi đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0233.wav,VieNeu-TTS,48000,2.16,1
+234,Chúng tôi đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0234.wav,VieNeu-TTS,48000,2.24,1
+235,Chúng tôi đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0235.wav,VieNeu-TTS,48000,2.32,1
+236,Chúng tôi đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0236.wav,VieNeu-TTS,48000,2.32,1
+237,Chúng tôi đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0237.wav,VieNeu-TTS,48000,2.16,1
+238,Chúng tôi đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0238.wav,VieNeu-TTS,48000,2.24,1
+239,Chúng tôi đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0239.wav,VieNeu-TTS,48000,2.32,1
+240,Chúng tôi đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0240.wav,VieNeu-TTS,48000,2.24,1
+241,Chúng tôi xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0241.wav,VieNeu-TTS,48000,2.24,1
+242,Chúng tôi xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0242.wav,VieNeu-TTS,48000,2.4,1
+243,Chúng tôi xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0243.wav,VieNeu-TTS,48000,2.48,1
+244,Chúng tôi xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0244.wav,VieNeu-TTS,48000,2.24,1
+245,Chúng tôi xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0245.wav,VieNeu-TTS,48000,2.16,1
+246,Chúng tôi xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0246.wav,VieNeu-TTS,48000,2.24,1
+247,Chúng tôi xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0247.wav,VieNeu-TTS,48000,2.16,1
+248,Chúng tôi xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0248.wav,VieNeu-TTS,48000,2.24,1
+249,Chúng tôi xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0249.wav,VieNeu-TTS,48000,2.56,1
+250,Chúng tôi xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0250.wav,VieNeu-TTS,48000,2.4,1
+251,Chúng tôi sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0251.wav,VieNeu-TTS,48000,2.0,1
+252,Chúng tôi sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0252.wav,VieNeu-TTS,48000,2.16,1
+253,Chúng tôi sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0253.wav,VieNeu-TTS,48000,2.08,1
+254,Chúng tôi sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0254.wav,VieNeu-TTS,48000,2.32,1
+255,Chúng tôi sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0255.wav,VieNeu-TTS,48000,2.24,1
+256,Chúng tôi sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0256.wav,VieNeu-TTS,48000,2.24,1
+257,Chúng tôi sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0257.wav,VieNeu-TTS,48000,2.24,1
+258,Chúng tôi sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0258.wav,VieNeu-TTS,48000,2.24,1
+259,Chúng tôi sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0259.wav,VieNeu-TTS,48000,2.32,1
+260,Chúng tôi sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0260.wav,VieNeu-TTS,48000,2.32,1
+261,Chúng tôi đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0261.wav,VieNeu-TTS,48000,2.08,1
+262,Chúng tôi đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0262.wav,VieNeu-TTS,48000,2.32,1
+263,Chúng tôi đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0263.wav,VieNeu-TTS,48000,2.08,1
+264,Chúng tôi đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0264.wav,VieNeu-TTS,48000,2.24,1
+265,Chúng tôi đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0265.wav,VieNeu-TTS,48000,2.24,1
+266,Chúng tôi đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0266.wav,VieNeu-TTS,48000,2.32,1
+267,Chúng tôi đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0267.wav,VieNeu-TTS,48000,2.16,1
+268,Chúng tôi đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0268.wav,VieNeu-TTS,48000,2.24,1
+269,Chúng tôi đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0269.wav,VieNeu-TTS,48000,2.56,1
+270,Chúng tôi đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0270.wav,VieNeu-TTS,48000,2.32,1
+271,Chúng tôi đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0271.wav,VieNeu-TTS,48000,2.16,1
+272,Chúng tôi đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0272.wav,VieNeu-TTS,48000,2.32,1
+273,Chúng tôi đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0273.wav,VieNeu-TTS,48000,2.24,1
+274,Chúng tôi đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0274.wav,VieNeu-TTS,48000,2.24,1
+275,Chúng tôi đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0275.wav,VieNeu-TTS,48000,2.24,1
+276,Chúng tôi đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0276.wav,VieNeu-TTS,48000,2.16,1
+277,Chúng tôi đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0277.wav,VieNeu-TTS,48000,2.32,1
+278,Chúng tôi đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0278.wav,VieNeu-TTS,48000,2.4,1
+279,Chúng tôi đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0279.wav,VieNeu-TTS,48000,2.48,1
+280,Chúng tôi đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0280.wav,VieNeu-TTS,48000,2.08,1
+281,Chúng tôi xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0281.wav,VieNeu-TTS,48000,2.24,1
+282,Chúng tôi xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0282.wav,VieNeu-TTS,48000,2.32,1
+283,Chúng tôi xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0283.wav,VieNeu-TTS,48000,2.32,1
+284,Chúng tôi xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0284.wav,VieNeu-TTS,48000,2.24,1
+285,Chúng tôi xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0285.wav,VieNeu-TTS,48000,2.08,1
+286,Chúng tôi xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0286.wav,VieNeu-TTS,48000,2.24,1
+287,Chúng tôi xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0287.wav,VieNeu-TTS,48000,2.32,1
+288,Chúng tôi xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0288.wav,VieNeu-TTS,48000,2.24,1
+289,Chúng tôi xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0289.wav,VieNeu-TTS,48000,2.56,1
+290,Chúng tôi xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0290.wav,VieNeu-TTS,48000,2.24,1
+291,Chúng tôi sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0291.wav,VieNeu-TTS,48000,2.48,1
+292,Chúng tôi sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0292.wav,VieNeu-TTS,48000,2.4,1
+293,Chúng tôi sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0293.wav,VieNeu-TTS,48000,2.48,1
+294,Chúng tôi sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0294.wav,VieNeu-TTS,48000,2.4,1
+295,Chúng tôi sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0295.wav,VieNeu-TTS,48000,2.48,1
+296,Chúng tôi sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0296.wav,VieNeu-TTS,48000,2.48,1
+297,Chúng tôi sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0297.wav,VieNeu-TTS,48000,2.64,1
+298,Chúng tôi sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0298.wav,VieNeu-TTS,48000,2.48,1
+299,Chúng tôi sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0299.wav,VieNeu-TTS,48000,2.72,1
+300,Chúng tôi sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0300.wav,VieNeu-TTS,48000,2.48,1
+301,Bộ phận hỗ trợ đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0301.wav,VieNeu-TTS,48000,2.48,1
+302,Bộ phận hỗ trợ đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0302.wav,VieNeu-TTS,48000,2.56,1
+303,Bộ phận hỗ trợ đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0303.wav,VieNeu-TTS,48000,2.24,1
+304,Bộ phận hỗ trợ đã ghi nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0304.wav,VieNeu-TTS,48000,2.64,1
+305,Bộ phận hỗ trợ đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0305.wav,VieNeu-TTS,48000,2.48,1
+306,Bộ phận hỗ trợ đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0306.wav,VieNeu-TTS,48000,2.4,1
+307,Bộ phận hỗ trợ đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0307.wav,VieNeu-TTS,48000,2.4,1
+308,Bộ phận hỗ trợ đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0308.wav,VieNeu-TTS,48000,2.4,1
+309,Bộ phận hỗ trợ đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0309.wav,VieNeu-TTS,48000,2.8,1
+310,Bộ phận hỗ trợ đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0310.wav,VieNeu-TTS,48000,2.48,1
+311,Bộ phận hỗ trợ đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0311.wav,VieNeu-TTS,48000,2.56,1
+312,Bộ phận hỗ trợ đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0312.wav,VieNeu-TTS,48000,2.56,1
+313,Bộ phận hỗ trợ đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0313.wav,VieNeu-TTS,48000,2.72,1
+314,Bộ phận hỗ trợ đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0314.wav,VieNeu-TTS,48000,2.64,1
+315,Bộ phận hỗ trợ đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0315.wav,VieNeu-TTS,48000,2.4,1
+316,Bộ phận hỗ trợ đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0316.wav,VieNeu-TTS,48000,2.48,1
+317,Bộ phận hỗ trợ đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0317.wav,VieNeu-TTS,48000,2.64,1
+318,Bộ phận hỗ trợ đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0318.wav,VieNeu-TTS,48000,2.4,1
+319,Bộ phận hỗ trợ đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0319.wav,VieNeu-TTS,48000,2.88,1
+320,Bộ phận hỗ trợ đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0320.wav,VieNeu-TTS,48000,2.64,1
+321,Bộ phận hỗ trợ đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0321.wav,VieNeu-TTS,48000,2.64,1
+322,Bộ phận hỗ trợ đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0322.wav,VieNeu-TTS,48000,2.72,1
+323,Bộ phận hỗ trợ đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0323.wav,VieNeu-TTS,48000,2.56,1
+324,Bộ phận hỗ trợ đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0324.wav,VieNeu-TTS,48000,2.56,1
+325,Bộ phận hỗ trợ đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0325.wav,VieNeu-TTS,48000,2.32,1
+326,Bộ phận hỗ trợ đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0326.wav,VieNeu-TTS,48000,2.56,1
+327,Bộ phận hỗ trợ đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0327.wav,VieNeu-TTS,48000,2.48,1
+328,Bộ phận hỗ trợ đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0328.wav,VieNeu-TTS,48000,2.48,1
+329,Bộ phận hỗ trợ đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0329.wav,VieNeu-TTS,48000,2.72,1
+330,Bộ phận hỗ trợ đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0330.wav,VieNeu-TTS,48000,2.56,1
+331,Bộ phận hỗ trợ đang xử lý yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0331.wav,VieNeu-TTS,48000,2.56,1
+332,Bộ phận hỗ trợ đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0332.wav,VieNeu-TTS,48000,2.64,1
+333,Bộ phận hỗ trợ đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0333.wav,VieNeu-TTS,48000,2.48,1
+334,Bộ phận hỗ trợ đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0334.wav,VieNeu-TTS,48000,2.56,1
+335,Bộ phận hỗ trợ đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0335.wav,VieNeu-TTS,48000,2.48,1
+336,Bộ phận hỗ trợ đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0336.wav,VieNeu-TTS,48000,2.56,1
+337,Bộ phận hỗ trợ đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0337.wav,VieNeu-TTS,48000,2.48,1
+338,Bộ phận hỗ trợ đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0338.wav,VieNeu-TTS,48000,2.48,1
+339,Bộ phận hỗ trợ đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0339.wav,VieNeu-TTS,48000,2.96,1
+340,Bộ phận hỗ trợ đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0340.wav,VieNeu-TTS,48000,2.48,1
+341,Bộ phận hỗ trợ xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0341.wav,VieNeu-TTS,48000,2.64,1
+342,Bộ phận hỗ trợ xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0342.wav,VieNeu-TTS,48000,2.72,1
+343,Bộ phận hỗ trợ xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0343.wav,VieNeu-TTS,48000,2.56,1
+344,Bộ phận hỗ trợ xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0344.wav,VieNeu-TTS,48000,2.56,1
+345,Bộ phận hỗ trợ xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0345.wav,VieNeu-TTS,48000,2.64,1
+346,Bộ phận hỗ trợ xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0346.wav,VieNeu-TTS,48000,2.8,1
+347,Bộ phận hỗ trợ xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0347.wav,VieNeu-TTS,48000,2.56,1
+348,Bộ phận hỗ trợ xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0348.wav,VieNeu-TTS,48000,2.56,1
+349,Bộ phận hỗ trợ xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0349.wav,VieNeu-TTS,48000,2.88,1
+350,Bộ phận hỗ trợ xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0350.wav,VieNeu-TTS,48000,2.8,1
+351,Bộ phận hỗ trợ sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0351.wav,VieNeu-TTS,48000,2.4,1
+352,Bộ phận hỗ trợ sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0352.wav,VieNeu-TTS,48000,2.72,1
+353,Bộ phận hỗ trợ sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0353.wav,VieNeu-TTS,48000,2.56,1
+354,Bộ phận hỗ trợ sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0354.wav,VieNeu-TTS,48000,2.64,1
+355,Bộ phận hỗ trợ sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0355.wav,VieNeu-TTS,48000,2.64,1
+356,Bộ phận hỗ trợ sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0356.wav,VieNeu-TTS,48000,2.64,1
+357,Bộ phận hỗ trợ sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0357.wav,VieNeu-TTS,48000,2.4,1
+358,Bộ phận hỗ trợ sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0358.wav,VieNeu-TTS,48000,2.64,1
+359,Bộ phận hỗ trợ sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0359.wav,VieNeu-TTS,48000,2.88,1
+360,Bộ phận hỗ trợ sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0360.wav,VieNeu-TTS,48000,2.64,1
+361,Bộ phận hỗ trợ đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0361.wav,VieNeu-TTS,48000,2.4,1
+362,Bộ phận hỗ trợ đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0362.wav,VieNeu-TTS,48000,2.72,1
+363,Bộ phận hỗ trợ đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0363.wav,VieNeu-TTS,48000,2.64,1
+364,Bộ phận hỗ trợ đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0364.wav,VieNeu-TTS,48000,2.56,1
+365,Bộ phận hỗ trợ đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0365.wav,VieNeu-TTS,48000,2.56,1
+366,Bộ phận hỗ trợ đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0366.wav,VieNeu-TTS,48000,2.4,1
+367,Bộ phận hỗ trợ đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0367.wav,VieNeu-TTS,48000,2.48,1
+368,Bộ phận hỗ trợ đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0368.wav,VieNeu-TTS,48000,2.72,1
+369,Bộ phận hỗ trợ đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0369.wav,VieNeu-TTS,48000,2.72,1
+370,Bộ phận hỗ trợ đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0370.wav,VieNeu-TTS,48000,2.56,1
+371,Bộ phận hỗ trợ đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0371.wav,VieNeu-TTS,48000,2.48,1
+372,Bộ phận hỗ trợ đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0372.wav,VieNeu-TTS,48000,2.56,1
+373,Bộ phận hỗ trợ đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0373.wav,VieNeu-TTS,48000,2.56,1
+374,Bộ phận hỗ trợ đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0374.wav,VieNeu-TTS,48000,2.64,1
+375,Bộ phận hỗ trợ đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0375.wav,VieNeu-TTS,48000,2.64,1
+376,Bộ phận hỗ trợ đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0376.wav,VieNeu-TTS,48000,2.56,1
+377,Bộ phận hỗ trợ đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0377.wav,VieNeu-TTS,48000,2.48,1
+378,Bộ phận hỗ trợ đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0378.wav,VieNeu-TTS,48000,2.56,1
+379,Bộ phận hỗ trợ đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0379.wav,VieNeu-TTS,48000,2.96,1
+380,Bộ phận hỗ trợ đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0380.wav,VieNeu-TTS,48000,2.56,1
+381,Bộ phận hỗ trợ xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0381.wav,VieNeu-TTS,48000,2.56,1
+382,Bộ phận hỗ trợ xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0382.wav,VieNeu-TTS,48000,2.72,1
+383,Bộ phận hỗ trợ xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0383.wav,VieNeu-TTS,48000,2.56,1
+384,Bộ phận hỗ trợ xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0384.wav,VieNeu-TTS,48000,2.8,1
+385,Bộ phận hỗ trợ xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0385.wav,VieNeu-TTS,48000,2.88,1
+386,Bộ phận hỗ trợ xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0386.wav,VieNeu-TTS,48000,2.56,1
+387,Bộ phận hỗ trợ xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0387.wav,VieNeu-TTS,48000,2.88,1
+388,Bộ phận hỗ trợ xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0388.wav,VieNeu-TTS,48000,2.56,1
+389,Bộ phận hỗ trợ xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0389.wav,VieNeu-TTS,48000,2.8,1
+390,Bộ phận hỗ trợ xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0390.wav,VieNeu-TTS,48000,2.8,1
+391,Bộ phận hỗ trợ sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0391.wav,VieNeu-TTS,48000,2.72,1
+392,Bộ phận hỗ trợ sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0392.wav,VieNeu-TTS,48000,2.72,1
+393,Bộ phận hỗ trợ sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0393.wav,VieNeu-TTS,48000,2.8,1
+394,Bộ phận hỗ trợ sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0394.wav,VieNeu-TTS,48000,2.88,1
+395,Bộ phận hỗ trợ sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0395.wav,VieNeu-TTS,48000,2.88,1
+396,Bộ phận hỗ trợ sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0396.wav,VieNeu-TTS,48000,2.96,1
+397,Bộ phận hỗ trợ sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0397.wav,VieNeu-TTS,48000,2.72,1
+398,Bộ phận hỗ trợ sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0398.wav,VieNeu-TTS,48000,2.64,1
+399,Bộ phận hỗ trợ sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0399.wav,VieNeu-TTS,48000,2.88,1
+400,Bộ phận hỗ trợ sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0400.wav,VieNeu-TTS,48000,2.88,1
+401,Hệ thống đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0401.wav,VieNeu-TTS,48000,2.0,1
+402,Hệ thống đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0402.wav,VieNeu-TTS,48000,2.0,1
+403,Hệ thống đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0403.wav,VieNeu-TTS,48000,2.08,1
+404,Hệ thống đã ghi nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0404.wav,VieNeu-TTS,48000,2.16,1
+405,Hệ thống đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0405.wav,VieNeu-TTS,48000,2.08,1
+406,Hệ thống đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0406.wav,VieNeu-TTS,48000,2.08,1
+407,Hệ thống đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0407.wav,VieNeu-TTS,48000,2.24,1
+408,Hệ thống đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0408.wav,VieNeu-TTS,48000,1.92,1
+409,Hệ thống đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0409.wav,VieNeu-TTS,48000,2.32,1
+410,Hệ thống đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0410.wav,VieNeu-TTS,48000,2.16,1
+411,Hệ thống đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0411.wav,VieNeu-TTS,48000,2.08,1
+412,Hệ thống đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0412.wav,VieNeu-TTS,48000,2.32,1
+413,Hệ thống đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0413.wav,VieNeu-TTS,48000,2.16,1
+414,Hệ thống đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0414.wav,VieNeu-TTS,48000,2.24,1
+415,Hệ thống đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0415.wav,VieNeu-TTS,48000,2.24,1
+416,Hệ thống đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0416.wav,VieNeu-TTS,48000,2.24,1
+417,Hệ thống đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0417.wav,VieNeu-TTS,48000,2.24,1
+418,Hệ thống đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0418.wav,VieNeu-TTS,48000,2.08,1
+419,Hệ thống đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0419.wav,VieNeu-TTS,48000,2.4,1
+420,Hệ thống đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0420.wav,VieNeu-TTS,48000,2.16,1
+421,Hệ thống đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0421.wav,VieNeu-TTS,48000,2.16,1
+422,Hệ thống đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0422.wav,VieNeu-TTS,48000,2.16,1
+423,Hệ thống đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0423.wav,VieNeu-TTS,48000,2.08,1
+424,Hệ thống đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0424.wav,VieNeu-TTS,48000,2.24,1
+425,Hệ thống đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0425.wav,VieNeu-TTS,48000,2.0,1
+426,Hệ thống đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0426.wav,VieNeu-TTS,48000,2.08,1
+427,Hệ thống đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0427.wav,VieNeu-TTS,48000,2.16,1
+428,Hệ thống đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0428.wav,VieNeu-TTS,48000,2.08,1
+429,Hệ thống đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0429.wav,VieNeu-TTS,48000,2.4,1
+430,Hệ thống đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0430.wav,VieNeu-TTS,48000,2.08,1
+431,Hệ thống đang xử lý yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0431.wav,VieNeu-TTS,48000,2.24,1
+432,Hệ thống đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0432.wav,VieNeu-TTS,48000,2.16,1
+433,Hệ thống đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0433.wav,VieNeu-TTS,48000,2.08,1
+434,Hệ thống đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0434.wav,VieNeu-TTS,48000,2.16,1
+435,Hệ thống đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0435.wav,VieNeu-TTS,48000,2.16,1
+436,Hệ thống đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0436.wav,VieNeu-TTS,48000,2.08,1
+437,Hệ thống đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0437.wav,VieNeu-TTS,48000,2.16,1
+438,Hệ thống đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0438.wav,VieNeu-TTS,48000,2.16,1
+439,Hệ thống đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0439.wav,VieNeu-TTS,48000,2.48,1
+440,Hệ thống đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0440.wav,VieNeu-TTS,48000,2.24,1
+441,Hệ thống xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0441.wav,VieNeu-TTS,48000,2.24,1
+442,Hệ thống xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0442.wav,VieNeu-TTS,48000,2.32,1
+443,Hệ thống xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0443.wav,VieNeu-TTS,48000,2.16,1
+444,Hệ thống xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0444.wav,VieNeu-TTS,48000,2.4,1
+445,Hệ thống xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0445.wav,VieNeu-TTS,48000,2.16,1
+446,Hệ thống xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0446.wav,VieNeu-TTS,48000,2.24,1
+447,Hệ thống xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0447.wav,VieNeu-TTS,48000,2.4,1
+448,Hệ thống xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0448.wav,VieNeu-TTS,48000,2.4,1
+449,Hệ thống xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0449.wav,VieNeu-TTS,48000,2.72,1
+450,Hệ thống xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0450.wav,VieNeu-TTS,48000,2.32,1
+451,Hệ thống sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0451.wav,VieNeu-TTS,48000,2.08,1
+452,Hệ thống sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0452.wav,VieNeu-TTS,48000,2.24,1
+453,Hệ thống sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0453.wav,VieNeu-TTS,48000,2.16,1
+454,Hệ thống sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0454.wav,VieNeu-TTS,48000,2.16,1
+455,Hệ thống sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0455.wav,VieNeu-TTS,48000,2.08,1
+456,Hệ thống sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0456.wav,VieNeu-TTS,48000,2.08,1
+457,Hệ thống sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0457.wav,VieNeu-TTS,48000,2.32,1
+458,Hệ thống sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0458.wav,VieNeu-TTS,48000,2.16,1
+459,Hệ thống sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0459.wav,VieNeu-TTS,48000,2.32,1
+460,Hệ thống sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0460.wav,VieNeu-TTS,48000,2.24,1
+461,Hệ thống đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0461.wav,VieNeu-TTS,48000,2.16,1
+462,Hệ thống đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0462.wav,VieNeu-TTS,48000,2.4,1
+463,Hệ thống đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0463.wav,VieNeu-TTS,48000,2.0,1
+464,Hệ thống đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0464.wav,VieNeu-TTS,48000,2.08,1
+465,Hệ thống đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0465.wav,VieNeu-TTS,48000,2.16,1
+466,Hệ thống đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0466.wav,VieNeu-TTS,48000,2.24,1
+467,Hệ thống đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0467.wav,VieNeu-TTS,48000,2.16,1
+468,Hệ thống đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0468.wav,VieNeu-TTS,48000,2.24,1
+469,Hệ thống đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0469.wav,VieNeu-TTS,48000,2.24,1
+470,Hệ thống đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0470.wav,VieNeu-TTS,48000,2.32,1
+471,Hệ thống đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0471.wav,VieNeu-TTS,48000,2.08,1
+472,Hệ thống đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0472.wav,VieNeu-TTS,48000,2.24,1
+473,Hệ thống đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0473.wav,VieNeu-TTS,48000,2.16,1
+474,Hệ thống đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0474.wav,VieNeu-TTS,48000,2.24,1
+475,Hệ thống đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0475.wav,VieNeu-TTS,48000,2.0,1
+476,Hệ thống đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0476.wav,VieNeu-TTS,48000,2.08,1
+477,Hệ thống đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0477.wav,VieNeu-TTS,48000,2.24,1
+478,Hệ thống đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0478.wav,VieNeu-TTS,48000,2.16,1
+479,Hệ thống đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0479.wav,VieNeu-TTS,48000,2.32,1
+480,Hệ thống đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0480.wav,VieNeu-TTS,48000,2.16,1
+481,Hệ thống xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0481.wav,VieNeu-TTS,48000,2.24,1
+482,Hệ thống xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0482.wav,VieNeu-TTS,48000,2.24,1
+483,Hệ thống xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0483.wav,VieNeu-TTS,48000,2.16,1
+484,Hệ thống xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0484.wav,VieNeu-TTS,48000,2.24,1
+485,Hệ thống xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0485.wav,VieNeu-TTS,48000,2.32,1
+486,Hệ thống xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0486.wav,VieNeu-TTS,48000,2.08,1
+487,Hệ thống xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0487.wav,VieNeu-TTS,48000,2.16,1
+488,Hệ thống xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0488.wav,VieNeu-TTS,48000,2.24,1
+489,Hệ thống xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0489.wav,VieNeu-TTS,48000,2.4,1
+490,Hệ thống xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0490.wav,VieNeu-TTS,48000,2.24,1
+491,Hệ thống sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0491.wav,VieNeu-TTS,48000,2.56,1
+492,Hệ thống sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0492.wav,VieNeu-TTS,48000,2.56,1
+493,Hệ thống sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0493.wav,VieNeu-TTS,48000,2.32,1
+494,Hệ thống sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0494.wav,VieNeu-TTS,48000,2.48,1
+495,Hệ thống sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0495.wav,VieNeu-TTS,48000,2.4,1
+496,Hệ thống sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0496.wav,VieNeu-TTS,48000,2.48,1
+497,Hệ thống sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0497.wav,VieNeu-TTS,48000,2.48,1
+498,Hệ thống sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0498.wav,VieNeu-TTS,48000,2.4,1
+499,Hệ thống sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0499.wav,VieNeu-TTS,48000,2.64,1
+500,Hệ thống sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0500.wav,VieNeu-TTS,48000,2.56,1
+501,Nhân viên đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0501.wav,VieNeu-TTS,48000,1.84,1
+502,Nhân viên đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0502.wav,VieNeu-TTS,48000,2.16,1
+503,Nhân viên đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0503.wav,VieNeu-TTS,48000,2.24,1
+504,Nhân viên đã ghi nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0504.wav,VieNeu-TTS,48000,1.92,1
+505,Nhân viên đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0505.wav,VieNeu-TTS,48000,2.16,1
+506,Nhân viên đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0506.wav,VieNeu-TTS,48000,2.08,1
+507,Nhân viên đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0507.wav,VieNeu-TTS,48000,2.08,1
+508,Nhân viên đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0508.wav,VieNeu-TTS,48000,2.24,1
+509,Nhân viên đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0509.wav,VieNeu-TTS,48000,2.4,1
+510,Nhân viên đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0510.wav,VieNeu-TTS,48000,2.16,1
+511,Nhân viên đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0511.wav,VieNeu-TTS,48000,2.16,1
+512,Nhân viên đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0512.wav,VieNeu-TTS,48000,2.32,1
+513,Nhân viên đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0513.wav,VieNeu-TTS,48000,2.16,1
+514,Nhân viên đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0514.wav,VieNeu-TTS,48000,2.4,1
+515,Nhân viên đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0515.wav,VieNeu-TTS,48000,2.24,1
+516,Nhân viên đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0516.wav,VieNeu-TTS,48000,2.08,1
+517,Nhân viên đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0517.wav,VieNeu-TTS,48000,2.0,1
+518,Nhân viên đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0518.wav,VieNeu-TTS,48000,2.08,1
+519,Nhân viên đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0519.wav,VieNeu-TTS,48000,2.4,1
+520,Nhân viên đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0520.wav,VieNeu-TTS,48000,2.32,1
+521,Nhân viên đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0521.wav,VieNeu-TTS,48000,2.08,1
+522,Nhân viên đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0522.wav,VieNeu-TTS,48000,2.16,1
+523,Nhân viên đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0523.wav,VieNeu-TTS,48000,2.24,1
+524,Nhân viên đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0524.wav,VieNeu-TTS,48000,2.16,1
+525,Nhân viên đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0525.wav,VieNeu-TTS,48000,2.0,1
+526,Nhân viên đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0526.wav,VieNeu-TTS,48000,1.92,1
+527,Nhân viên đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0527.wav,VieNeu-TTS,48000,2.32,1
+528,Nhân viên đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0528.wav,VieNeu-TTS,48000,2.08,1
+529,Nhân viên đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0529.wav,VieNeu-TTS,48000,2.32,1
+530,Nhân viên đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0530.wav,VieNeu-TTS,48000,2.24,1
+531,Nhân viên đang xử lý yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0531.wav,VieNeu-TTS,48000,2.24,1
+532,Nhân viên đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0532.wav,VieNeu-TTS,48000,2.24,1
+533,Nhân viên đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0533.wav,VieNeu-TTS,48000,2.32,1
+534,Nhân viên đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0534.wav,VieNeu-TTS,48000,2.08,1
+535,Nhân viên đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0535.wav,VieNeu-TTS,48000,2.08,1
+536,Nhân viên đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0536.wav,VieNeu-TTS,48000,2.24,1
+537,Nhân viên đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0537.wav,VieNeu-TTS,48000,2.0,1
+538,Nhân viên đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0538.wav,VieNeu-TTS,48000,2.24,1
+539,Nhân viên đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0539.wav,VieNeu-TTS,48000,2.32,1
+540,Nhân viên đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0540.wav,VieNeu-TTS,48000,2.16,1
+541,Nhân viên xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0541.wav,VieNeu-TTS,48000,2.24,1
+542,Nhân viên xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0542.wav,VieNeu-TTS,48000,2.16,1
+543,Nhân viên xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0543.wav,VieNeu-TTS,48000,2.16,1
+544,Nhân viên xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0544.wav,VieNeu-TTS,48000,2.24,1
+545,Nhân viên xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0545.wav,VieNeu-TTS,48000,2.32,1
+546,Nhân viên xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0546.wav,VieNeu-TTS,48000,2.24,1
+547,Nhân viên xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0547.wav,VieNeu-TTS,48000,2.32,1
+548,Nhân viên xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0548.wav,VieNeu-TTS,48000,2.32,1
+549,Nhân viên xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0549.wav,VieNeu-TTS,48000,2.56,1
+550,Nhân viên xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0550.wav,VieNeu-TTS,48000,2.48,1
+551,Nhân viên sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0551.wav,VieNeu-TTS,48000,2.0,1
+552,Nhân viên sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0552.wav,VieNeu-TTS,48000,2.24,1
+553,Nhân viên sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0553.wav,VieNeu-TTS,48000,2.24,1
+554,Nhân viên sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0554.wav,VieNeu-TTS,48000,2.08,1
+555,Nhân viên sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0555.wav,VieNeu-TTS,48000,2.08,1
+556,Nhân viên sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0556.wav,VieNeu-TTS,48000,2.16,1
+557,Nhân viên sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0557.wav,VieNeu-TTS,48000,2.24,1
+558,Nhân viên sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0558.wav,VieNeu-TTS,48000,2.32,1
+559,Nhân viên sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0559.wav,VieNeu-TTS,48000,2.48,1
+560,Nhân viên sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0560.wav,VieNeu-TTS,48000,2.08,1
+561,Nhân viên đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0561.wav,VieNeu-TTS,48000,2.16,1
+562,Nhân viên đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0562.wav,VieNeu-TTS,48000,2.16,1
+563,Nhân viên đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0563.wav,VieNeu-TTS,48000,2.4,1
+564,Nhân viên đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0564.wav,VieNeu-TTS,48000,2.16,1
+565,Nhân viên đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0565.wav,VieNeu-TTS,48000,2.0,1
+566,Nhân viên đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0566.wav,VieNeu-TTS,48000,2.16,1
+567,Nhân viên đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0567.wav,VieNeu-TTS,48000,2.24,1
+568,Nhân viên đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0568.wav,VieNeu-TTS,48000,2.24,1
+569,Nhân viên đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0569.wav,VieNeu-TTS,48000,2.32,1
+570,Nhân viên đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0570.wav,VieNeu-TTS,48000,2.32,1
+571,Nhân viên đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0571.wav,VieNeu-TTS,48000,2.0,1
+572,Nhân viên đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0572.wav,VieNeu-TTS,48000,2.24,1
+573,Nhân viên đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0573.wav,VieNeu-TTS,48000,2.24,1
+574,Nhân viên đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0574.wav,VieNeu-TTS,48000,2.24,1
+575,Nhân viên đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0575.wav,VieNeu-TTS,48000,2.24,1
+576,Nhân viên đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0576.wav,VieNeu-TTS,48000,2.0,1
+577,Nhân viên đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0577.wav,VieNeu-TTS,48000,2.16,1
+578,Nhân viên đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0578.wav,VieNeu-TTS,48000,2.24,1
+579,Nhân viên đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0579.wav,VieNeu-TTS,48000,2.32,1
+580,Nhân viên đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0580.wav,VieNeu-TTS,48000,2.24,1
+581,Nhân viên xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0581.wav,VieNeu-TTS,48000,2.08,1
+582,Nhân viên xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0582.wav,VieNeu-TTS,48000,2.32,1
+583,Nhân viên xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0583.wav,VieNeu-TTS,48000,2.0,1
+584,Nhân viên xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0584.wav,VieNeu-TTS,48000,2.32,1
+585,Nhân viên xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0585.wav,VieNeu-TTS,48000,2.16,1
+586,Nhân viên xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0586.wav,VieNeu-TTS,48000,2.16,1
+587,Nhân viên xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0587.wav,VieNeu-TTS,48000,2.16,1
+588,Nhân viên xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0588.wav,VieNeu-TTS,48000,2.08,1
+589,Nhân viên xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0589.wav,VieNeu-TTS,48000,2.48,1
+590,Nhân viên xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0590.wav,VieNeu-TTS,48000,2.24,1
+591,Nhân viên sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0591.wav,VieNeu-TTS,48000,2.48,1
+592,Nhân viên sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0592.wav,VieNeu-TTS,48000,2.48,1
+593,Nhân viên sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0593.wav,VieNeu-TTS,48000,2.4,1
+594,Nhân viên sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0594.wav,VieNeu-TTS,48000,2.24,1
+595,Nhân viên sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0595.wav,VieNeu-TTS,48000,2.48,1
+596,Nhân viên sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0596.wav,VieNeu-TTS,48000,2.4,1
+597,Nhân viên sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0597.wav,VieNeu-TTS,48000,2.56,1
+598,Nhân viên sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0598.wav,VieNeu-TTS,48000,2.24,1
+599,Nhân viên sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0599.wav,VieNeu-TTS,48000,2.64,1
+600,Nhân viên sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0600.wav,VieNeu-TTS,48000,2.48,1
+601,Khách hàng đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0601.wav,VieNeu-TTS,48000,2.0,1
+602,Khách hàng đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0602.wav,VieNeu-TTS,48000,2.24,1
+603,Khách hàng đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0603.wav,VieNeu-TTS,48000,2.0,1
+604,Khách hàng đã ghi nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0604.wav,VieNeu-TTS,48000,2.16,1
+605,Khách hàng đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0605.wav,VieNeu-TTS,48000,2.16,1
+606,Khách hàng đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0606.wav,VieNeu-TTS,48000,2.08,1
+607,Khách hàng đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0607.wav,VieNeu-TTS,48000,2.16,1
+608,Khách hàng đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0608.wav,VieNeu-TTS,48000,2.0,1
+609,Khách hàng đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0609.wav,VieNeu-TTS,48000,2.32,1
+610,Khách hàng đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0610.wav,VieNeu-TTS,48000,2.24,1
+611,Khách hàng đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0611.wav,VieNeu-TTS,48000,2.08,1
+612,Khách hàng đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0612.wav,VieNeu-TTS,48000,2.08,1
+613,Khách hàng đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0613.wav,VieNeu-TTS,48000,2.24,1
+614,Khách hàng đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0614.wav,VieNeu-TTS,48000,2.0,1
+615,Khách hàng đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0615.wav,VieNeu-TTS,48000,2.08,1
+616,Khách hàng đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0616.wav,VieNeu-TTS,48000,2.08,1
+617,Khách hàng đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0617.wav,VieNeu-TTS,48000,2.24,1
+618,Khách hàng đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0618.wav,VieNeu-TTS,48000,2.16,1
+619,Khách hàng đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0619.wav,VieNeu-TTS,48000,2.48,1
+620,Khách hàng đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0620.wav,VieNeu-TTS,48000,2.24,1
+621,Khách hàng đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0621.wav,VieNeu-TTS,48000,2.16,1
+622,Khách hàng đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0622.wav,VieNeu-TTS,48000,2.16,1
+623,Khách hàng đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0623.wav,VieNeu-TTS,48000,2.16,1
+624,Khách hàng đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0624.wav,VieNeu-TTS,48000,2.32,1
+625,Khách hàng đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0625.wav,VieNeu-TTS,48000,2.16,1
+626,Khách hàng đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0626.wav,VieNeu-TTS,48000,2.32,1
+627,Khách hàng đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0627.wav,VieNeu-TTS,48000,2.08,1
+628,Khách hàng đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0628.wav,VieNeu-TTS,48000,2.32,1
+629,Khách hàng đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0629.wav,VieNeu-TTS,48000,2.4,1
+630,Khách hàng đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0630.wav,VieNeu-TTS,48000,2.0,1
+631,Khách hàng đang xử lý yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0631.wav,VieNeu-TTS,48000,2.16,1
+632,Khách hàng đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0632.wav,VieNeu-TTS,48000,2.24,1
+633,Khách hàng đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0633.wav,VieNeu-TTS,48000,2.16,1
+634,Khách hàng đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0634.wav,VieNeu-TTS,48000,2.24,1
+635,Khách hàng đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0635.wav,VieNeu-TTS,48000,2.24,1
+636,Khách hàng đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0636.wav,VieNeu-TTS,48000,2.08,1
+637,Khách hàng đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0637.wav,VieNeu-TTS,48000,2.08,1
+638,Khách hàng đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0638.wav,VieNeu-TTS,48000,2.08,1
+639,Khách hàng đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0639.wav,VieNeu-TTS,48000,2.32,1
+640,Khách hàng đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0640.wav,VieNeu-TTS,48000,2.16,1
+641,Khách hàng xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0641.wav,VieNeu-TTS,48000,2.24,1
+642,Khách hàng xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0642.wav,VieNeu-TTS,48000,2.4,1
+643,Khách hàng xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0643.wav,VieNeu-TTS,48000,2.32,1
+644,Khách hàng xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0644.wav,VieNeu-TTS,48000,2.32,1
+645,Khách hàng xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0645.wav,VieNeu-TTS,48000,2.16,1
+646,Khách hàng xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0646.wav,VieNeu-TTS,48000,2.08,1
+647,Khách hàng xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0647.wav,VieNeu-TTS,48000,2.4,1
+648,Khách hàng xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0648.wav,VieNeu-TTS,48000,2.16,1
+649,Khách hàng xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0649.wav,VieNeu-TTS,48000,2.4,1
+650,Khách hàng xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0650.wav,VieNeu-TTS,48000,2.24,1
+651,Khách hàng sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0651.wav,VieNeu-TTS,48000,2.24,1
+652,Khách hàng sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0652.wav,VieNeu-TTS,48000,2.08,1
+653,Khách hàng sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0653.wav,VieNeu-TTS,48000,2.0,1
+654,Khách hàng sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0654.wav,VieNeu-TTS,48000,2.24,1
+655,Khách hàng sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0655.wav,VieNeu-TTS,48000,2.16,1
+656,Khách hàng sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0656.wav,VieNeu-TTS,48000,2.16,1
+657,Khách hàng sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0657.wav,VieNeu-TTS,48000,2.32,1
+658,Khách hàng sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0658.wav,VieNeu-TTS,48000,2.0,1
+659,Khách hàng sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0659.wav,VieNeu-TTS,48000,2.48,1
+660,Khách hàng sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0660.wav,VieNeu-TTS,48000,2.16,1
+661,Khách hàng đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0661.wav,VieNeu-TTS,48000,2.08,1
+662,Khách hàng đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0662.wav,VieNeu-TTS,48000,2.24,1
+663,Khách hàng đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0663.wav,VieNeu-TTS,48000,2.24,1
+664,Khách hàng đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0664.wav,VieNeu-TTS,48000,2.32,1
+665,Khách hàng đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0665.wav,VieNeu-TTS,48000,2.08,1
+666,Khách hàng đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0666.wav,VieNeu-TTS,48000,2.16,1
+667,Khách hàng đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0667.wav,VieNeu-TTS,48000,2.24,1
+668,Khách hàng đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0668.wav,VieNeu-TTS,48000,2.08,1
+669,Khách hàng đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0669.wav,VieNeu-TTS,48000,2.32,1
+670,Khách hàng đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0670.wav,VieNeu-TTS,48000,2.24,1
+671,Khách hàng đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0671.wav,VieNeu-TTS,48000,2.08,1
+672,Khách hàng đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0672.wav,VieNeu-TTS,48000,2.16,1
+673,Khách hàng đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0673.wav,VieNeu-TTS,48000,2.16,1
+674,Khách hàng đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0674.wav,VieNeu-TTS,48000,2.16,1
+675,Khách hàng đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0675.wav,VieNeu-TTS,48000,2.08,1
+676,Khách hàng đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0676.wav,VieNeu-TTS,48000,2.08,1
+677,Khách hàng đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0677.wav,VieNeu-TTS,48000,2.16,1
+678,Khách hàng đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0678.wav,VieNeu-TTS,48000,2.24,1
+679,Khách hàng đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0679.wav,VieNeu-TTS,48000,2.48,1
+680,Khách hàng đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0680.wav,VieNeu-TTS,48000,2.0,1
+681,Khách hàng xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0681.wav,VieNeu-TTS,48000,2.32,1
+682,Khách hàng xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0682.wav,VieNeu-TTS,48000,2.4,1
+683,Khách hàng xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0683.wav,VieNeu-TTS,48000,2.24,1
+684,Khách hàng xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0684.wav,VieNeu-TTS,48000,2.16,1
+685,Khách hàng xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0685.wav,VieNeu-TTS,48000,2.08,1
+686,Khách hàng xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0686.wav,VieNeu-TTS,48000,2.16,1
+687,Khách hàng xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0687.wav,VieNeu-TTS,48000,2.16,1
+688,Khách hàng xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0688.wav,VieNeu-TTS,48000,2.08,1
+689,Khách hàng xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0689.wav,VieNeu-TTS,48000,2.56,1
+690,Khách hàng xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0690.wav,VieNeu-TTS,48000,2.32,1
+691,Khách hàng sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0691.wav,VieNeu-TTS,48000,2.32,1
+692,Khách hàng sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0692.wav,VieNeu-TTS,48000,2.56,1
+693,Khách hàng sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0693.wav,VieNeu-TTS,48000,2.4,1
+694,Khách hàng sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0694.wav,VieNeu-TTS,48000,2.48,1
+695,Khách hàng sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0695.wav,VieNeu-TTS,48000,2.32,1
+696,Khách hàng sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0696.wav,VieNeu-TTS,48000,2.4,1
+697,Khách hàng sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0697.wav,VieNeu-TTS,48000,2.4,1
+698,Khách hàng sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0698.wav,VieNeu-TTS,48000,2.32,1
+699,Khách hàng sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0699.wav,VieNeu-TTS,48000,2.64,1
+700,Khách hàng sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0700.wav,VieNeu-TTS,48000,2.4,1
+701,Trung tâm đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0701.wav,VieNeu-TTS,48000,2.0,1
+702,Trung tâm đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0702.wav,VieNeu-TTS,48000,2.08,1
+703,Trung tâm đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0703.wav,VieNeu-TTS,48000,2.0,1
+704,Trung tâm đã ghi nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0704.wav,VieNeu-TTS,48000,2.24,1
+705,Trung tâm đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0705.wav,VieNeu-TTS,48000,2.16,1
+706,Trung tâm đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0706.wav,VieNeu-TTS,48000,2.08,1
+707,Trung tâm đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0707.wav,VieNeu-TTS,48000,2.08,1
+708,Trung tâm đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0708.wav,VieNeu-TTS,48000,2.16,1
+709,Trung tâm đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0709.wav,VieNeu-TTS,48000,2.32,1
+710,Trung tâm đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0710.wav,VieNeu-TTS,48000,1.92,1
+711,Trung tâm đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0711.wav,VieNeu-TTS,48000,2.24,1
+712,Trung tâm đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0712.wav,VieNeu-TTS,48000,2.24,1
+713,Trung tâm đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0713.wav,VieNeu-TTS,48000,2.08,1
+714,Trung tâm đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0714.wav,VieNeu-TTS,48000,2.32,1
+715,Trung tâm đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0715.wav,VieNeu-TTS,48000,2.24,1
+716,Trung tâm đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0716.wav,VieNeu-TTS,48000,2.08,1
+717,Trung tâm đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0717.wav,VieNeu-TTS,48000,2.32,1
+718,Trung tâm đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0718.wav,VieNeu-TTS,48000,2.24,1
+719,Trung tâm đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0719.wav,VieNeu-TTS,48000,2.48,1
+720,Trung tâm đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0720.wav,VieNeu-TTS,48000,2.16,1
+721,Trung tâm đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0721.wav,VieNeu-TTS,48000,2.08,1
+722,Trung tâm đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0722.wav,VieNeu-TTS,48000,2.16,1
+723,Trung tâm đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0723.wav,VieNeu-TTS,48000,2.16,1
+724,Trung tâm đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0724.wav,VieNeu-TTS,48000,2.24,1
+725,Trung tâm đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0725.wav,VieNeu-TTS,48000,2.08,1
+726,Trung tâm đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0726.wav,VieNeu-TTS,48000,2.08,1
+727,Trung tâm đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0727.wav,VieNeu-TTS,48000,2.16,1
+728,Trung tâm đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0728.wav,VieNeu-TTS,48000,2.16,1
+729,Trung tâm đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0729.wav,VieNeu-TTS,48000,2.48,1
+730,Trung tâm đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0730.wav,VieNeu-TTS,48000,2.24,1
+731,Trung tâm đang xử lý yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0731.wav,VieNeu-TTS,48000,2.0,1
+732,Trung tâm đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0732.wav,VieNeu-TTS,48000,2.16,1
+733,Trung tâm đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0733.wav,VieNeu-TTS,48000,2.16,1
+734,Trung tâm đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0734.wav,VieNeu-TTS,48000,2.08,1
+735,Trung tâm đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0735.wav,VieNeu-TTS,48000,2.16,1
+736,Trung tâm đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0736.wav,VieNeu-TTS,48000,2.24,1
+737,Trung tâm đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0737.wav,VieNeu-TTS,48000,2.16,1
+738,Trung tâm đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0738.wav,VieNeu-TTS,48000,2.16,1
+739,Trung tâm đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0739.wav,VieNeu-TTS,48000,2.4,1
+740,Trung tâm đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0740.wav,VieNeu-TTS,48000,2.32,1
+741,Trung tâm xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0741.wav,VieNeu-TTS,48000,2.24,1
+742,Trung tâm xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0742.wav,VieNeu-TTS,48000,2.48,1
+743,Trung tâm xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0743.wav,VieNeu-TTS,48000,2.24,1
+744,Trung tâm xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0744.wav,VieNeu-TTS,48000,2.32,1
+745,Trung tâm xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0745.wav,VieNeu-TTS,48000,2.24,1
+746,Trung tâm xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0746.wav,VieNeu-TTS,48000,2.32,1
+747,Trung tâm xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0747.wav,VieNeu-TTS,48000,2.16,1
+748,Trung tâm xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0748.wav,VieNeu-TTS,48000,2.08,1
+749,Trung tâm xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0749.wav,VieNeu-TTS,48000,2.56,1
+750,Trung tâm xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0750.wav,VieNeu-TTS,48000,2.32,1
+751,Trung tâm sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0751.wav,VieNeu-TTS,48000,2.16,1
+752,Trung tâm sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0752.wav,VieNeu-TTS,48000,2.48,1
+753,Trung tâm sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0753.wav,VieNeu-TTS,48000,2.16,1
+754,Trung tâm sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0754.wav,VieNeu-TTS,48000,2.16,1
+755,Trung tâm sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0755.wav,VieNeu-TTS,48000,2.32,1
+756,Trung tâm sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0756.wav,VieNeu-TTS,48000,2.16,1
+757,Trung tâm sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0757.wav,VieNeu-TTS,48000,2.32,1
+758,Trung tâm sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0758.wav,VieNeu-TTS,48000,2.32,1
+759,Trung tâm sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0759.wav,VieNeu-TTS,48000,2.48,1
+760,Trung tâm sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0760.wav,VieNeu-TTS,48000,2.24,1
+761,Trung tâm đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0761.wav,VieNeu-TTS,48000,2.16,1
+762,Trung tâm đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0762.wav,VieNeu-TTS,48000,2.24,1
+763,Trung tâm đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0763.wav,VieNeu-TTS,48000,2.16,1
+764,Trung tâm đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0764.wav,VieNeu-TTS,48000,2.24,1
+765,Trung tâm đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0765.wav,VieNeu-TTS,48000,2.16,1
+766,Trung tâm đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0766.wav,VieNeu-TTS,48000,2.24,1
+767,Trung tâm đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0767.wav,VieNeu-TTS,48000,2.08,1
+768,Trung tâm đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0768.wav,VieNeu-TTS,48000,2.4,1
+769,Trung tâm đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0769.wav,VieNeu-TTS,48000,2.56,1
+770,Trung tâm đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0770.wav,VieNeu-TTS,48000,2.4,1
+771,Trung tâm đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0771.wav,VieNeu-TTS,48000,2.08,1
+772,Trung tâm đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0772.wav,VieNeu-TTS,48000,2.24,1
+773,Trung tâm đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0773.wav,VieNeu-TTS,48000,2.08,1
+774,Trung tâm đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0774.wav,VieNeu-TTS,48000,2.24,1
+775,Trung tâm đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0775.wav,VieNeu-TTS,48000,2.24,1
+776,Trung tâm đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0776.wav,VieNeu-TTS,48000,2.32,1
+777,Trung tâm đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0777.wav,VieNeu-TTS,48000,2.24,1
+778,Trung tâm đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0778.wav,VieNeu-TTS,48000,2.08,1
+779,Trung tâm đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0779.wav,VieNeu-TTS,48000,2.48,1
+780,Trung tâm đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0780.wav,VieNeu-TTS,48000,2.4,1
+781,Trung tâm xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0781.wav,VieNeu-TTS,48000,2.0,1
+782,Trung tâm xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0782.wav,VieNeu-TTS,48000,2.4,1
+783,Trung tâm xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0783.wav,VieNeu-TTS,48000,2.32,1
+784,Trung tâm xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0784.wav,VieNeu-TTS,48000,2.24,1
+785,Trung tâm xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0785.wav,VieNeu-TTS,48000,2.16,1
+786,Trung tâm xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0786.wav,VieNeu-TTS,48000,2.08,1
+787,Trung tâm xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0787.wav,VieNeu-TTS,48000,2.32,1
+788,Trung tâm xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0788.wav,VieNeu-TTS,48000,2.16,1
+789,Trung tâm xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0789.wav,VieNeu-TTS,48000,2.48,1
+790,Trung tâm xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0790.wav,VieNeu-TTS,48000,2.16,1
+791,Trung tâm sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0791.wav,VieNeu-TTS,48000,2.48,1
+792,Trung tâm sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0792.wav,VieNeu-TTS,48000,2.56,1
+793,Trung tâm sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0793.wav,VieNeu-TTS,48000,2.4,1
+794,Trung tâm sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0794.wav,VieNeu-TTS,48000,2.56,1
+795,Trung tâm sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0795.wav,VieNeu-TTS,48000,2.64,1
+796,Trung tâm sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0796.wav,VieNeu-TTS,48000,2.48,1
+797,Trung tâm sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0797.wav,VieNeu-TTS,48000,2.48,1
+798,Trung tâm sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0798.wav,VieNeu-TTS,48000,2.32,1
+799,Trung tâm sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0799.wav,VieNeu-TTS,48000,2.8,1
+800,Trung tâm sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0800.wav,VieNeu-TTS,48000,2.64,1
+801,Phòng kỹ thuật đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0801.wav,VieNeu-TTS,48000,2.32,1
+802,Phòng kỹ thuật đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0802.wav,VieNeu-TTS,48000,2.48,1
+803,Phòng kỹ thuật đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0803.wav,VieNeu-TTS,48000,2.16,1
+804,Phòng kỹ thuật đã ghi nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0804.wav,VieNeu-TTS,48000,2.24,1
+805,Phòng kỹ thuật đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0805.wav,VieNeu-TTS,48000,2.4,1
+806,Phòng kỹ thuật đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0806.wav,VieNeu-TTS,48000,2.24,1
+807,Phòng kỹ thuật đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0807.wav,VieNeu-TTS,48000,2.4,1
+808,Phòng kỹ thuật đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0808.wav,VieNeu-TTS,48000,2.56,1
+809,Phòng kỹ thuật đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0809.wav,VieNeu-TTS,48000,2.64,1
+810,Phòng kỹ thuật đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0810.wav,VieNeu-TTS,48000,2.48,1
+811,Phòng kỹ thuật đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0811.wav,VieNeu-TTS,48000,2.4,1
+812,Phòng kỹ thuật đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0812.wav,VieNeu-TTS,48000,2.56,1
+813,Phòng kỹ thuật đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0813.wav,VieNeu-TTS,48000,2.4,1
+814,Phòng kỹ thuật đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0814.wav,VieNeu-TTS,48000,2.32,1
+815,Phòng kỹ thuật đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0815.wav,VieNeu-TTS,48000,2.4,1
+816,Phòng kỹ thuật đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0816.wav,VieNeu-TTS,48000,2.4,1
+817,Phòng kỹ thuật đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0817.wav,VieNeu-TTS,48000,2.4,1
+818,Phòng kỹ thuật đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0818.wav,VieNeu-TTS,48000,2.32,1
+819,Phòng kỹ thuật đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0819.wav,VieNeu-TTS,48000,2.64,1
+820,Phòng kỹ thuật đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0820.wav,VieNeu-TTS,48000,2.4,1
+821,Phòng kỹ thuật đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0821.wav,VieNeu-TTS,48000,2.48,1
+822,Phòng kỹ thuật đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0822.wav,VieNeu-TTS,48000,2.4,1
+823,Phòng kỹ thuật đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0823.wav,VieNeu-TTS,48000,2.48,1
+824,Phòng kỹ thuật đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0824.wav,VieNeu-TTS,48000,2.32,1
+825,Phòng kỹ thuật đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0825.wav,VieNeu-TTS,48000,2.56,1
+826,Phòng kỹ thuật đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0826.wav,VieNeu-TTS,48000,2.56,1
+827,Phòng kỹ thuật đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0827.wav,VieNeu-TTS,48000,2.16,1
+828,Phòng kỹ thuật đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0828.wav,VieNeu-TTS,48000,2.4,1
+829,Phòng kỹ thuật đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0829.wav,VieNeu-TTS,48000,2.56,1
+830,Phòng kỹ thuật đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0830.wav,VieNeu-TTS,48000,2.56,1
+831,Phòng kỹ thuật đang xử lý yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0831.wav,VieNeu-TTS,48000,2.48,1
+832,Phòng kỹ thuật đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0832.wav,VieNeu-TTS,48000,2.32,1
+833,Phòng kỹ thuật đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0833.wav,VieNeu-TTS,48000,2.4,1
+834,Phòng kỹ thuật đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0834.wav,VieNeu-TTS,48000,2.64,1
+835,Phòng kỹ thuật đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0835.wav,VieNeu-TTS,48000,2.32,1
+836,Phòng kỹ thuật đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0836.wav,VieNeu-TTS,48000,2.32,1
+837,Phòng kỹ thuật đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0837.wav,VieNeu-TTS,48000,2.4,1
+838,Phòng kỹ thuật đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0838.wav,VieNeu-TTS,48000,2.24,1
+839,Phòng kỹ thuật đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0839.wav,VieNeu-TTS,48000,2.64,1
+840,Phòng kỹ thuật đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0840.wav,VieNeu-TTS,48000,2.64,1
+841,Phòng kỹ thuật xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0841.wav,VieNeu-TTS,48000,2.48,1
+842,Phòng kỹ thuật xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0842.wav,VieNeu-TTS,48000,2.56,1
+843,Phòng kỹ thuật xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0843.wav,VieNeu-TTS,48000,2.48,1
+844,Phòng kỹ thuật xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0844.wav,VieNeu-TTS,48000,2.56,1
+845,Phòng kỹ thuật xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0845.wav,VieNeu-TTS,48000,2.8,1
+846,Phòng kỹ thuật xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0846.wav,VieNeu-TTS,48000,2.48,1
+847,Phòng kỹ thuật xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0847.wav,VieNeu-TTS,48000,2.48,1
+848,Phòng kỹ thuật xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0848.wav,VieNeu-TTS,48000,2.56,1
+849,Phòng kỹ thuật xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0849.wav,VieNeu-TTS,48000,2.8,1
+850,Phòng kỹ thuật xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0850.wav,VieNeu-TTS,48000,2.56,1
+851,Phòng kỹ thuật sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0851.wav,VieNeu-TTS,48000,2.4,1
+852,Phòng kỹ thuật sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0852.wav,VieNeu-TTS,48000,2.64,1
+853,Phòng kỹ thuật sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0853.wav,VieNeu-TTS,48000,2.4,1
+854,Phòng kỹ thuật sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0854.wav,VieNeu-TTS,48000,2.48,1
+855,Phòng kỹ thuật sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0855.wav,VieNeu-TTS,48000,2.56,1
+856,Phòng kỹ thuật sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0856.wav,VieNeu-TTS,48000,2.48,1
+857,Phòng kỹ thuật sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0857.wav,VieNeu-TTS,48000,2.4,1
+858,Phòng kỹ thuật sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0858.wav,VieNeu-TTS,48000,2.32,1
+859,Phòng kỹ thuật sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0859.wav,VieNeu-TTS,48000,2.48,1
+860,Phòng kỹ thuật sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0860.wav,VieNeu-TTS,48000,2.48,1
+861,Phòng kỹ thuật đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0861.wav,VieNeu-TTS,48000,2.56,1
+862,Phòng kỹ thuật đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0862.wav,VieNeu-TTS,48000,2.4,1
+863,Phòng kỹ thuật đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0863.wav,VieNeu-TTS,48000,2.4,1
+864,Phòng kỹ thuật đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0864.wav,VieNeu-TTS,48000,2.32,1
+865,Phòng kỹ thuật đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0865.wav,VieNeu-TTS,48000,2.56,1
+866,Phòng kỹ thuật đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0866.wav,VieNeu-TTS,48000,2.32,1
+867,Phòng kỹ thuật đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0867.wav,VieNeu-TTS,48000,2.56,1
+868,Phòng kỹ thuật đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0868.wav,VieNeu-TTS,48000,2.56,1
+869,Phòng kỹ thuật đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0869.wav,VieNeu-TTS,48000,2.64,1
+870,Phòng kỹ thuật đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0870.wav,VieNeu-TTS,48000,2.56,1
+871,Phòng kỹ thuật đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0871.wav,VieNeu-TTS,48000,2.24,1
+872,Phòng kỹ thuật đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0872.wav,VieNeu-TTS,48000,2.4,1
+873,Phòng kỹ thuật đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0873.wav,VieNeu-TTS,48000,2.72,1
+874,Phòng kỹ thuật đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0874.wav,VieNeu-TTS,48000,2.48,1
+875,Phòng kỹ thuật đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0875.wav,VieNeu-TTS,48000,2.56,1
+876,Phòng kỹ thuật đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0876.wav,VieNeu-TTS,48000,2.56,1
+877,Phòng kỹ thuật đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0877.wav,VieNeu-TTS,48000,2.32,1
+878,Phòng kỹ thuật đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0878.wav,VieNeu-TTS,48000,2.4,1
+879,Phòng kỹ thuật đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0879.wav,VieNeu-TTS,48000,2.88,1
+880,Phòng kỹ thuật đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0880.wav,VieNeu-TTS,48000,2.48,1
+881,Phòng kỹ thuật xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0881.wav,VieNeu-TTS,48000,2.56,1
+882,Phòng kỹ thuật xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0882.wav,VieNeu-TTS,48000,2.48,1
+883,Phòng kỹ thuật xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0883.wav,VieNeu-TTS,48000,2.4,1
+884,Phòng kỹ thuật xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0884.wav,VieNeu-TTS,48000,2.48,1
+885,Phòng kỹ thuật xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0885.wav,VieNeu-TTS,48000,2.4,1
+886,Phòng kỹ thuật xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0886.wav,VieNeu-TTS,48000,2.24,1
+887,Phòng kỹ thuật xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0887.wav,VieNeu-TTS,48000,2.56,1
+888,Phòng kỹ thuật xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0888.wav,VieNeu-TTS,48000,2.32,1
+889,Phòng kỹ thuật xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0889.wav,VieNeu-TTS,48000,2.32,1
+890,Phòng kỹ thuật xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0890.wav,VieNeu-TTS,48000,2.64,1
+891,Phòng kỹ thuật sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0891.wav,VieNeu-TTS,48000,2.8,1
+892,Phòng kỹ thuật sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0892.wav,VieNeu-TTS,48000,2.8,1
+893,Phòng kỹ thuật sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0893.wav,VieNeu-TTS,48000,2.56,1
+894,Phòng kỹ thuật sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0894.wav,VieNeu-TTS,48000,2.64,1
+895,Phòng kỹ thuật sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0895.wav,VieNeu-TTS,48000,2.72,1
+896,Phòng kỹ thuật sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0896.wav,VieNeu-TTS,48000,2.48,1
+897,Phòng kỹ thuật sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0897.wav,VieNeu-TTS,48000,2.64,1
+898,Phòng kỹ thuật sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0898.wav,VieNeu-TTS,48000,2.64,1
+899,Phòng kỹ thuật sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0899.wav,VieNeu-TTS,48000,2.96,1
+900,Phòng kỹ thuật sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0900.wav,VieNeu-TTS,48000,2.48,1
+901,Đội ngũ chăm sóc khách hàng đã ghi nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0901.wav,VieNeu-TTS,48000,3.04,1
+902,Đội ngũ chăm sóc khách hàng đã ghi nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0902.wav,VieNeu-TTS,48000,2.96,1
+903,Đội ngũ chăm sóc khách hàng đã ghi nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0903.wav,VieNeu-TTS,48000,2.8,1
+904,Đội ngũ chăm sóc khách hàng đã ghi nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0904.wav,VieNeu-TTS,48000,2.96,1
+905,Đội ngũ chăm sóc khách hàng đã ghi nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0905.wav,VieNeu-TTS,48000,3.12,1
+906,Đội ngũ chăm sóc khách hàng đã ghi nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0906.wav,VieNeu-TTS,48000,2.96,1
+907,Đội ngũ chăm sóc khách hàng đã ghi nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0907.wav,VieNeu-TTS,48000,3.2,1
+908,Đội ngũ chăm sóc khách hàng đã ghi nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0908.wav,VieNeu-TTS,48000,3.04,1
+909,Đội ngũ chăm sóc khách hàng đã ghi nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0909.wav,VieNeu-TTS,48000,3.2,1
+910,Đội ngũ chăm sóc khách hàng đã ghi nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0910.wav,VieNeu-TTS,48000,3.04,1
+911,Đội ngũ chăm sóc khách hàng đang kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0911.wav,VieNeu-TTS,48000,3.12,1
+912,Đội ngũ chăm sóc khách hàng đang kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0912.wav,VieNeu-TTS,48000,3.04,1
+913,Đội ngũ chăm sóc khách hàng đang kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0913.wav,VieNeu-TTS,48000,3.12,1
+914,Đội ngũ chăm sóc khách hàng đang kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0914.wav,VieNeu-TTS,48000,3.04,1
+915,Đội ngũ chăm sóc khách hàng đang kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0915.wav,VieNeu-TTS,48000,2.96,1
+916,Đội ngũ chăm sóc khách hàng đang kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0916.wav,VieNeu-TTS,48000,2.88,1
+917,Đội ngũ chăm sóc khách hàng đang kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0917.wav,VieNeu-TTS,48000,3.12,1
+918,Đội ngũ chăm sóc khách hàng đang kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0918.wav,VieNeu-TTS,48000,3.28,1
+919,Đội ngũ chăm sóc khách hàng đang kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0919.wav,VieNeu-TTS,48000,3.36,1
+920,Đội ngũ chăm sóc khách hàng đang kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0920.wav,VieNeu-TTS,48000,2.96,1
+921,Đội ngũ chăm sóc khách hàng đã cập nhật yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0921.wav,VieNeu-TTS,48000,2.72,1
+922,Đội ngũ chăm sóc khách hàng đã cập nhật thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0922.wav,VieNeu-TTS,48000,3.04,1
+923,Đội ngũ chăm sóc khách hàng đã cập nhật kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0923.wav,VieNeu-TTS,48000,2.96,1
+924,Đội ngũ chăm sóc khách hàng đã cập nhật nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0924.wav,VieNeu-TTS,48000,3.12,1
+925,Đội ngũ chăm sóc khách hàng đã cập nhật thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0925.wav,VieNeu-TTS,48000,3.2,1
+926,Đội ngũ chăm sóc khách hàng đã cập nhật yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0926.wav,VieNeu-TTS,48000,3.04,1
+927,Đội ngũ chăm sóc khách hàng đã cập nhật dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0927.wav,VieNeu-TTS,48000,3.12,1
+928,Đội ngũ chăm sóc khách hàng đã cập nhật lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0928.wav,VieNeu-TTS,48000,3.2,1
+929,Đội ngũ chăm sóc khách hàng đã cập nhật hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0929.wav,VieNeu-TTS,48000,3.28,1
+930,Đội ngũ chăm sóc khách hàng đã cập nhật kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0930.wav,VieNeu-TTS,48000,3.2,1
+931,Đội ngũ chăm sóc khách hàng đang xử lý yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0931.wav,VieNeu-TTS,48000,3.04,1
+932,Đội ngũ chăm sóc khách hàng đang xử lý thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0932.wav,VieNeu-TTS,48000,3.12,1
+933,Đội ngũ chăm sóc khách hàng đang xử lý kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0933.wav,VieNeu-TTS,48000,3.04,1
+934,Đội ngũ chăm sóc khách hàng đang xử lý nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0934.wav,VieNeu-TTS,48000,3.04,1
+935,Đội ngũ chăm sóc khách hàng đang xử lý thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0935.wav,VieNeu-TTS,48000,3.04,1
+936,Đội ngũ chăm sóc khách hàng đang xử lý yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0936.wav,VieNeu-TTS,48000,3.04,1
+937,Đội ngũ chăm sóc khách hàng đang xử lý dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0937.wav,VieNeu-TTS,48000,3.12,1
+938,Đội ngũ chăm sóc khách hàng đang xử lý lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0938.wav,VieNeu-TTS,48000,3.04,1
+939,Đội ngũ chăm sóc khách hàng đang xử lý hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0939.wav,VieNeu-TTS,48000,3.28,1
+940,Đội ngũ chăm sóc khách hàng đang xử lý kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0940.wav,VieNeu-TTS,48000,3.12,1
+941,Đội ngũ chăm sóc khách hàng xin xác nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0941.wav,VieNeu-TTS,48000,3.28,1
+942,Đội ngũ chăm sóc khách hàng xin xác nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0942.wav,VieNeu-TTS,48000,3.12,1
+943,Đội ngũ chăm sóc khách hàng xin xác nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0943.wav,VieNeu-TTS,48000,3.12,1
+944,Đội ngũ chăm sóc khách hàng xin xác nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0944.wav,VieNeu-TTS,48000,3.2,1
+945,Đội ngũ chăm sóc khách hàng xin xác nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0945.wav,VieNeu-TTS,48000,3.12,1
+946,Đội ngũ chăm sóc khách hàng xin xác nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0946.wav,VieNeu-TTS,48000,3.2,1
+947,Đội ngũ chăm sóc khách hàng xin xác nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0947.wav,VieNeu-TTS,48000,3.04,1
+948,Đội ngũ chăm sóc khách hàng xin xác nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0948.wav,VieNeu-TTS,48000,3.2,1
+949,Đội ngũ chăm sóc khách hàng xin xác nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0949.wav,VieNeu-TTS,48000,3.52,1
+950,Đội ngũ chăm sóc khách hàng xin xác nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0950.wav,VieNeu-TTS,48000,3.28,1
+951,Đội ngũ chăm sóc khách hàng sẽ thông báo yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0951.wav,VieNeu-TTS,48000,3.04,1
+952,Đội ngũ chăm sóc khách hàng sẽ thông báo thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0952.wav,VieNeu-TTS,48000,3.12,1
+953,Đội ngũ chăm sóc khách hàng sẽ thông báo kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0953.wav,VieNeu-TTS,48000,3.12,1
+954,Đội ngũ chăm sóc khách hàng sẽ thông báo nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0954.wav,VieNeu-TTS,48000,3.04,1
+955,Đội ngũ chăm sóc khách hàng sẽ thông báo thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0955.wav,VieNeu-TTS,48000,2.88,1
+956,Đội ngũ chăm sóc khách hàng sẽ thông báo yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0956.wav,VieNeu-TTS,48000,3.04,1
+957,Đội ngũ chăm sóc khách hàng sẽ thông báo dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0957.wav,VieNeu-TTS,48000,3.28,1
+958,Đội ngũ chăm sóc khách hàng sẽ thông báo lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0958.wav,VieNeu-TTS,48000,2.88,1
+959,Đội ngũ chăm sóc khách hàng sẽ thông báo hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0959.wav,VieNeu-TTS,48000,3.52,1
+960,Đội ngũ chăm sóc khách hàng sẽ thông báo kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0960.wav,VieNeu-TTS,48000,3.12,1
+961,Đội ngũ chăm sóc khách hàng đã tiếp nhận yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0961.wav,VieNeu-TTS,48000,3.04,1
+962,Đội ngũ chăm sóc khách hàng đã tiếp nhận thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0962.wav,VieNeu-TTS,48000,3.12,1
+963,Đội ngũ chăm sóc khách hàng đã tiếp nhận kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0963.wav,VieNeu-TTS,48000,3.04,1
+964,Đội ngũ chăm sóc khách hàng đã tiếp nhận nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0964.wav,VieNeu-TTS,48000,3.04,1
+965,Đội ngũ chăm sóc khách hàng đã tiếp nhận thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0965.wav,VieNeu-TTS,48000,2.96,1
+966,Đội ngũ chăm sóc khách hàng đã tiếp nhận yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0966.wav,VieNeu-TTS,48000,2.96,1
+967,Đội ngũ chăm sóc khách hàng đã tiếp nhận dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0967.wav,VieNeu-TTS,48000,3.36,1
+968,Đội ngũ chăm sóc khách hàng đã tiếp nhận lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0968.wav,VieNeu-TTS,48000,2.96,1
+969,Đội ngũ chăm sóc khách hàng đã tiếp nhận hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0969.wav,VieNeu-TTS,48000,3.28,1
+970,Đội ngũ chăm sóc khách hàng đã tiếp nhận kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0970.wav,VieNeu-TTS,48000,3.04,1
+971,Đội ngũ chăm sóc khách hàng đang chuẩn bị yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0971.wav,VieNeu-TTS,48000,3.12,1
+972,Đội ngũ chăm sóc khách hàng đang chuẩn bị thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0972.wav,VieNeu-TTS,48000,3.12,1
+973,Đội ngũ chăm sóc khách hàng đang chuẩn bị kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0973.wav,VieNeu-TTS,48000,3.04,1
+974,Đội ngũ chăm sóc khách hàng đang chuẩn bị nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0974.wav,VieNeu-TTS,48000,3.12,1
+975,Đội ngũ chăm sóc khách hàng đang chuẩn bị thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0975.wav,VieNeu-TTS,48000,2.96,1
+976,Đội ngũ chăm sóc khách hàng đang chuẩn bị yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0976.wav,VieNeu-TTS,48000,2.96,1
+977,Đội ngũ chăm sóc khách hàng đang chuẩn bị dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0977.wav,VieNeu-TTS,48000,3.28,1
+978,Đội ngũ chăm sóc khách hàng đang chuẩn bị lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0978.wav,VieNeu-TTS,48000,3.2,1
+979,Đội ngũ chăm sóc khách hàng đang chuẩn bị hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0979.wav,VieNeu-TTS,48000,3.44,1
+980,Đội ngũ chăm sóc khách hàng đang chuẩn bị kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0980.wav,VieNeu-TTS,48000,3.2,1
+981,Đội ngũ chăm sóc khách hàng xin kiểm tra yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0981.wav,VieNeu-TTS,48000,3.04,1
+982,Đội ngũ chăm sóc khách hàng xin kiểm tra thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0982.wav,VieNeu-TTS,48000,3.36,1
+983,Đội ngũ chăm sóc khách hàng xin kiểm tra kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0983.wav,VieNeu-TTS,48000,3.12,1
+984,Đội ngũ chăm sóc khách hàng xin kiểm tra nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0984.wav,VieNeu-TTS,48000,3.28,1
+985,Đội ngũ chăm sóc khách hàng xin kiểm tra thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0985.wav,VieNeu-TTS,48000,3.2,1
+986,Đội ngũ chăm sóc khách hàng xin kiểm tra yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0986.wav,VieNeu-TTS,48000,3.04,1
+987,Đội ngũ chăm sóc khách hàng xin kiểm tra dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0987.wav,VieNeu-TTS,48000,3.12,1
+988,Đội ngũ chăm sóc khách hàng xin kiểm tra lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0988.wav,VieNeu-TTS,48000,2.96,1
+989,Đội ngũ chăm sóc khách hàng xin kiểm tra hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0989.wav,VieNeu-TTS,48000,3.36,1
+990,Đội ngũ chăm sóc khách hàng xin kiểm tra kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0990.wav,VieNeu-TTS,48000,3.04,1
+991,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin yêu cầu của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0991.wav,VieNeu-TTS,48000,3.12,1
+992,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin thông tin tài khoản.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0992.wav,VieNeu-TTS,48000,3.44,1
+993,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin kết quả giao dịch.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0993.wav,VieNeu-TTS,48000,3.28,1
+994,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin nội dung đăng ký.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0994.wav,VieNeu-TTS,48000,3.44,1
+995,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin thông tin liên hệ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0995.wav,VieNeu-TTS,48000,3.36,1
+996,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin yêu cầu hỗ trợ.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0996.wav,VieNeu-TTS,48000,3.44,1
+997,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin dữ liệu vừa gửi.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0997.wav,VieNeu-TTS,48000,3.2,1
+998,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin lịch hẹn của bạn.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0998.wav,VieNeu-TTS,48000,3.36,1
+999,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin hồ sơ cần xác minh.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_0999.wav,VieNeu-TTS,48000,3.6,1
+1000,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin kết quả kiểm tra.,C:\LE_GIA_BA0\Task2_SinhGiongGia\outputs\vieneu-tts-notebook\vieneu_1000.wav,VieNeu-TTS,48000,3.76,1
