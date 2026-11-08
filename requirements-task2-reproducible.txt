@@ -1,0 +1,15 @@
+# requirements-task2-reproducible.txt
+# Python: 3.11.x (viXTTS Coqui TTS 0.22.0 requires Python <3.12)
+# GPU PyTorch must match installed CUDA driver. Existing validated local stack:
+TTS==0.22.0
+f5-tts==1.1.22
+soundfile
+scipy
+numpy
+pandas
+huggingface-hub
+transformers
+tokenizers
+# Edge-TTS / VieNeu pins must be captured from the actual working environment:
+# python -m pip freeze > requirements-lock-local.txt
+# Do not upgrade transformers/tokenizers between runs without recording a new lock.

@@ -1,0 +1,1001 @@
+﻿id,text
+1,Tôi đã ghi nhận yêu cầu của bạn.
+2,Tôi đã ghi nhận thông tin tài khoản.
+3,Tôi đã ghi nhận kết quả giao dịch.
+4,Tôi đã ghi nhận nội dung đăng ký.
+5,Tôi đã ghi nhận thông tin liên hệ.
+6,Tôi đã ghi nhận yêu cầu hỗ trợ.
+7,Tôi đã ghi nhận dữ liệu vừa gửi.
+8,Tôi đã ghi nhận lịch hẹn của bạn.
+9,Tôi đã ghi nhận hồ sơ cần xác minh.
+10,Tôi đã ghi nhận kết quả kiểm tra.
+11,Tôi đang kiểm tra yêu cầu của bạn.
+12,Tôi đang kiểm tra thông tin tài khoản.
+13,Tôi đang kiểm tra kết quả giao dịch.
+14,Tôi đang kiểm tra nội dung đăng ký.
+15,Tôi đang kiểm tra thông tin liên hệ.
+16,Tôi đang kiểm tra yêu cầu hỗ trợ.
+17,Tôi đang kiểm tra dữ liệu vừa gửi.
+18,Tôi đang kiểm tra lịch hẹn của bạn.
+19,Tôi đang kiểm tra hồ sơ cần xác minh.
+20,Tôi đang kiểm tra kết quả kiểm tra.
+21,Tôi đã cập nhật yêu cầu của bạn.
+22,Tôi đã cập nhật thông tin tài khoản.
+23,Tôi đã cập nhật kết quả giao dịch.
+24,Tôi đã cập nhật nội dung đăng ký.
+25,Tôi đã cập nhật thông tin liên hệ.
+26,Tôi đã cập nhật yêu cầu hỗ trợ.
+27,Tôi đã cập nhật dữ liệu vừa gửi.
+28,Tôi đã cập nhật lịch hẹn của bạn.
+29,Tôi đã cập nhật hồ sơ cần xác minh.
+30,Tôi đã cập nhật kết quả kiểm tra.
+31,Tôi đang xử lý yêu cầu của bạn.
+32,Tôi đang xử lý thông tin tài khoản.
+33,Tôi đang xử lý kết quả giao dịch.
+34,Tôi đang xử lý nội dung đăng ký.
+35,Tôi đang xử lý thông tin liên hệ.
+36,Tôi đang xử lý yêu cầu hỗ trợ.
+37,Tôi đang xử lý dữ liệu vừa gửi.
+38,Tôi đang xử lý lịch hẹn của bạn.
+39,Tôi đang xử lý hồ sơ cần xác minh.
+40,Tôi đang xử lý kết quả kiểm tra.
+41,Tôi xin xác nhận yêu cầu của bạn.
+42,Tôi xin xác nhận thông tin tài khoản.
+43,Tôi xin xác nhận kết quả giao dịch.
+44,Tôi xin xác nhận nội dung đăng ký.
+45,Tôi xin xác nhận thông tin liên hệ.
+46,Tôi xin xác nhận yêu cầu hỗ trợ.
+47,Tôi xin xác nhận dữ liệu vừa gửi.
+48,Tôi xin xác nhận lịch hẹn của bạn.
+49,Tôi xin xác nhận hồ sơ cần xác minh.
+50,Tôi xin xác nhận kết quả kiểm tra.
+51,Tôi sẽ thông báo yêu cầu của bạn.
+52,Tôi sẽ thông báo thông tin tài khoản.
+53,Tôi sẽ thông báo kết quả giao dịch.
+54,Tôi sẽ thông báo nội dung đăng ký.
+55,Tôi sẽ thông báo thông tin liên hệ.
+56,Tôi sẽ thông báo yêu cầu hỗ trợ.
+57,Tôi sẽ thông báo dữ liệu vừa gửi.
+58,Tôi sẽ thông báo lịch hẹn của bạn.
+59,Tôi sẽ thông báo hồ sơ cần xác minh.
+60,Tôi sẽ thông báo kết quả kiểm tra.
+61,Tôi đã tiếp nhận yêu cầu của bạn.
+62,Tôi đã tiếp nhận thông tin tài khoản.
+63,Tôi đã tiếp nhận kết quả giao dịch.
+64,Tôi đã tiếp nhận nội dung đăng ký.
+65,Tôi đã tiếp nhận thông tin liên hệ.
+66,Tôi đã tiếp nhận yêu cầu hỗ trợ.
+67,Tôi đã tiếp nhận dữ liệu vừa gửi.
+68,Tôi đã tiếp nhận lịch hẹn của bạn.
+69,Tôi đã tiếp nhận hồ sơ cần xác minh.
+70,Tôi đã tiếp nhận kết quả kiểm tra.
+71,Tôi đang chuẩn bị yêu cầu của bạn.
+72,Tôi đang chuẩn bị thông tin tài khoản.
+73,Tôi đang chuẩn bị kết quả giao dịch.
+74,Tôi đang chuẩn bị nội dung đăng ký.
+75,Tôi đang chuẩn bị thông tin liên hệ.
+76,Tôi đang chuẩn bị yêu cầu hỗ trợ.
+77,Tôi đang chuẩn bị dữ liệu vừa gửi.
+78,Tôi đang chuẩn bị lịch hẹn của bạn.
+79,Tôi đang chuẩn bị hồ sơ cần xác minh.
+80,Tôi đang chuẩn bị kết quả kiểm tra.
+81,Tôi xin kiểm tra yêu cầu của bạn.
+82,Tôi xin kiểm tra thông tin tài khoản.
+83,Tôi xin kiểm tra kết quả giao dịch.
+84,Tôi xin kiểm tra nội dung đăng ký.
+85,Tôi xin kiểm tra thông tin liên hệ.
+86,Tôi xin kiểm tra yêu cầu hỗ trợ.
+87,Tôi xin kiểm tra dữ liệu vừa gửi.
+88,Tôi xin kiểm tra lịch hẹn của bạn.
+89,Tôi xin kiểm tra hồ sơ cần xác minh.
+90,Tôi xin kiểm tra kết quả kiểm tra.
+91,Tôi sẽ gửi thông tin yêu cầu của bạn.
+92,Tôi sẽ gửi thông tin thông tin tài khoản.
+93,Tôi sẽ gửi thông tin kết quả giao dịch.
+94,Tôi sẽ gửi thông tin nội dung đăng ký.
+95,Tôi sẽ gửi thông tin thông tin liên hệ.
+96,Tôi sẽ gửi thông tin yêu cầu hỗ trợ.
+97,Tôi sẽ gửi thông tin dữ liệu vừa gửi.
+98,Tôi sẽ gửi thông tin lịch hẹn của bạn.
+99,Tôi sẽ gửi thông tin hồ sơ cần xác minh.
+100,Tôi sẽ gửi thông tin kết quả kiểm tra.
+101,Bạn đã ghi nhận yêu cầu của bạn.
+102,Bạn đã ghi nhận thông tin tài khoản.
+103,Bạn đã ghi nhận kết quả giao dịch.
+104,Bạn đã ghi nhận nội dung đăng ký.
+105,Bạn đã ghi nhận thông tin liên hệ.
+106,Bạn đã ghi nhận yêu cầu hỗ trợ.
+107,Bạn đã ghi nhận dữ liệu vừa gửi.
+108,Bạn đã ghi nhận lịch hẹn của bạn.
+109,Bạn đã ghi nhận hồ sơ cần xác minh.
+110,Bạn đã ghi nhận kết quả kiểm tra.
+111,Bạn đang kiểm tra yêu cầu của bạn.
+112,Bạn đang kiểm tra thông tin tài khoản.
+113,Bạn đang kiểm tra kết quả giao dịch.
+114,Bạn đang kiểm tra nội dung đăng ký.
+115,Bạn đang kiểm tra thông tin liên hệ.
+116,Bạn đang kiểm tra yêu cầu hỗ trợ.
+117,Bạn đang kiểm tra dữ liệu vừa gửi.
+118,Bạn đang kiểm tra lịch hẹn của bạn.
+119,Bạn đang kiểm tra hồ sơ cần xác minh.
+120,Bạn đang kiểm tra kết quả kiểm tra.
+121,Bạn đã cập nhật yêu cầu của bạn.
+122,Bạn đã cập nhật thông tin tài khoản.
+123,Bạn đã cập nhật kết quả giao dịch.
+124,Bạn đã cập nhật nội dung đăng ký.
+125,Bạn đã cập nhật thông tin liên hệ.
+126,Bạn đã cập nhật yêu cầu hỗ trợ.
+127,Bạn đã cập nhật dữ liệu vừa gửi.
+128,Bạn đã cập nhật lịch hẹn của bạn.
+129,Bạn đã cập nhật hồ sơ cần xác minh.
+130,Bạn đã cập nhật kết quả kiểm tra.
+131,Bạn đang xử lý yêu cầu của bạn.
+132,Bạn đang xử lý thông tin tài khoản.
+133,Bạn đang xử lý kết quả giao dịch.
+134,Bạn đang xử lý nội dung đăng ký.
+135,Bạn đang xử lý thông tin liên hệ.
+136,Bạn đang xử lý yêu cầu hỗ trợ.
+137,Bạn đang xử lý dữ liệu vừa gửi.
+138,Bạn đang xử lý lịch hẹn của bạn.
+139,Bạn đang xử lý hồ sơ cần xác minh.
+140,Bạn đang xử lý kết quả kiểm tra.
+141,Bạn xin xác nhận yêu cầu của bạn.
+142,Bạn xin xác nhận thông tin tài khoản.
+143,Bạn xin xác nhận kết quả giao dịch.
+144,Bạn xin xác nhận nội dung đăng ký.
+145,Bạn xin xác nhận thông tin liên hệ.
+146,Bạn xin xác nhận yêu cầu hỗ trợ.
+147,Bạn xin xác nhận dữ liệu vừa gửi.
+148,Bạn xin xác nhận lịch hẹn của bạn.
+149,Bạn xin xác nhận hồ sơ cần xác minh.
+150,Bạn xin xác nhận kết quả kiểm tra.
+151,Bạn sẽ thông báo yêu cầu của bạn.
+152,Bạn sẽ thông báo thông tin tài khoản.
+153,Bạn sẽ thông báo kết quả giao dịch.
+154,Bạn sẽ thông báo nội dung đăng ký.
+155,Bạn sẽ thông báo thông tin liên hệ.
+156,Bạn sẽ thông báo yêu cầu hỗ trợ.
+157,Bạn sẽ thông báo dữ liệu vừa gửi.
+158,Bạn sẽ thông báo lịch hẹn của bạn.
+159,Bạn sẽ thông báo hồ sơ cần xác minh.
+160,Bạn sẽ thông báo kết quả kiểm tra.
+161,Bạn đã tiếp nhận yêu cầu của bạn.
+162,Bạn đã tiếp nhận thông tin tài khoản.
+163,Bạn đã tiếp nhận kết quả giao dịch.
+164,Bạn đã tiếp nhận nội dung đăng ký.
+165,Bạn đã tiếp nhận thông tin liên hệ.
+166,Bạn đã tiếp nhận yêu cầu hỗ trợ.
+167,Bạn đã tiếp nhận dữ liệu vừa gửi.
+168,Bạn đã tiếp nhận lịch hẹn của bạn.
+169,Bạn đã tiếp nhận hồ sơ cần xác minh.
+170,Bạn đã tiếp nhận kết quả kiểm tra.
+171,Bạn đang chuẩn bị yêu cầu của bạn.
+172,Bạn đang chuẩn bị thông tin tài khoản.
+173,Bạn đang chuẩn bị kết quả giao dịch.
+174,Bạn đang chuẩn bị nội dung đăng ký.
+175,Bạn đang chuẩn bị thông tin liên hệ.
+176,Bạn đang chuẩn bị yêu cầu hỗ trợ.
+177,Bạn đang chuẩn bị dữ liệu vừa gửi.
+178,Bạn đang chuẩn bị lịch hẹn của bạn.
+179,Bạn đang chuẩn bị hồ sơ cần xác minh.
+180,Bạn đang chuẩn bị kết quả kiểm tra.
+181,Bạn xin kiểm tra yêu cầu của bạn.
+182,Bạn xin kiểm tra thông tin tài khoản.
+183,Bạn xin kiểm tra kết quả giao dịch.
+184,Bạn xin kiểm tra nội dung đăng ký.
+185,Bạn xin kiểm tra thông tin liên hệ.
+186,Bạn xin kiểm tra yêu cầu hỗ trợ.
+187,Bạn xin kiểm tra dữ liệu vừa gửi.
+188,Bạn xin kiểm tra lịch hẹn của bạn.
+189,Bạn xin kiểm tra hồ sơ cần xác minh.
+190,Bạn xin kiểm tra kết quả kiểm tra.
+191,Bạn sẽ gửi thông tin yêu cầu của bạn.
+192,Bạn sẽ gửi thông tin thông tin tài khoản.
+193,Bạn sẽ gửi thông tin kết quả giao dịch.
+194,Bạn sẽ gửi thông tin nội dung đăng ký.
+195,Bạn sẽ gửi thông tin thông tin liên hệ.
+196,Bạn sẽ gửi thông tin yêu cầu hỗ trợ.
+197,Bạn sẽ gửi thông tin dữ liệu vừa gửi.
+198,Bạn sẽ gửi thông tin lịch hẹn của bạn.
+199,Bạn sẽ gửi thông tin hồ sơ cần xác minh.
+200,Bạn sẽ gửi thông tin kết quả kiểm tra.
+201,Chúng tôi đã ghi nhận yêu cầu của bạn.
+202,Chúng tôi đã ghi nhận thông tin tài khoản.
+203,Chúng tôi đã ghi nhận kết quả giao dịch.
+204,Chúng tôi đã ghi nhận nội dung đăng ký.
+205,Chúng tôi đã ghi nhận thông tin liên hệ.
+206,Chúng tôi đã ghi nhận yêu cầu hỗ trợ.
+207,Chúng tôi đã ghi nhận dữ liệu vừa gửi.
+208,Chúng tôi đã ghi nhận lịch hẹn của bạn.
+209,Chúng tôi đã ghi nhận hồ sơ cần xác minh.
+210,Chúng tôi đã ghi nhận kết quả kiểm tra.
+211,Chúng tôi đang kiểm tra yêu cầu của bạn.
+212,Chúng tôi đang kiểm tra thông tin tài khoản.
+213,Chúng tôi đang kiểm tra kết quả giao dịch.
+214,Chúng tôi đang kiểm tra nội dung đăng ký.
+215,Chúng tôi đang kiểm tra thông tin liên hệ.
+216,Chúng tôi đang kiểm tra yêu cầu hỗ trợ.
+217,Chúng tôi đang kiểm tra dữ liệu vừa gửi.
+218,Chúng tôi đang kiểm tra lịch hẹn của bạn.
+219,Chúng tôi đang kiểm tra hồ sơ cần xác minh.
+220,Chúng tôi đang kiểm tra kết quả kiểm tra.
+221,Chúng tôi đã cập nhật yêu cầu của bạn.
+222,Chúng tôi đã cập nhật thông tin tài khoản.
+223,Chúng tôi đã cập nhật kết quả giao dịch.
+224,Chúng tôi đã cập nhật nội dung đăng ký.
+225,Chúng tôi đã cập nhật thông tin liên hệ.
+226,Chúng tôi đã cập nhật yêu cầu hỗ trợ.
+227,Chúng tôi đã cập nhật dữ liệu vừa gửi.
+228,Chúng tôi đã cập nhật lịch hẹn của bạn.
+229,Chúng tôi đã cập nhật hồ sơ cần xác minh.
+230,Chúng tôi đã cập nhật kết quả kiểm tra.
+231,Chúng tôi đang xử lý yêu cầu của bạn.
+232,Chúng tôi đang xử lý thông tin tài khoản.
+233,Chúng tôi đang xử lý kết quả giao dịch.
+234,Chúng tôi đang xử lý nội dung đăng ký.
+235,Chúng tôi đang xử lý thông tin liên hệ.
+236,Chúng tôi đang xử lý yêu cầu hỗ trợ.
+237,Chúng tôi đang xử lý dữ liệu vừa gửi.
+238,Chúng tôi đang xử lý lịch hẹn của bạn.
+239,Chúng tôi đang xử lý hồ sơ cần xác minh.
+240,Chúng tôi đang xử lý kết quả kiểm tra.
+241,Chúng tôi xin xác nhận yêu cầu của bạn.
+242,Chúng tôi xin xác nhận thông tin tài khoản.
+243,Chúng tôi xin xác nhận kết quả giao dịch.
+244,Chúng tôi xin xác nhận nội dung đăng ký.
+245,Chúng tôi xin xác nhận thông tin liên hệ.
+246,Chúng tôi xin xác nhận yêu cầu hỗ trợ.
+247,Chúng tôi xin xác nhận dữ liệu vừa gửi.
+248,Chúng tôi xin xác nhận lịch hẹn của bạn.
+249,Chúng tôi xin xác nhận hồ sơ cần xác minh.
+250,Chúng tôi xin xác nhận kết quả kiểm tra.
+251,Chúng tôi sẽ thông báo yêu cầu của bạn.
+252,Chúng tôi sẽ thông báo thông tin tài khoản.
+253,Chúng tôi sẽ thông báo kết quả giao dịch.
+254,Chúng tôi sẽ thông báo nội dung đăng ký.
+255,Chúng tôi sẽ thông báo thông tin liên hệ.
+256,Chúng tôi sẽ thông báo yêu cầu hỗ trợ.
+257,Chúng tôi sẽ thông báo dữ liệu vừa gửi.
+258,Chúng tôi sẽ thông báo lịch hẹn của bạn.
+259,Chúng tôi sẽ thông báo hồ sơ cần xác minh.
+260,Chúng tôi sẽ thông báo kết quả kiểm tra.
+261,Chúng tôi đã tiếp nhận yêu cầu của bạn.
+262,Chúng tôi đã tiếp nhận thông tin tài khoản.
+263,Chúng tôi đã tiếp nhận kết quả giao dịch.
+264,Chúng tôi đã tiếp nhận nội dung đăng ký.
+265,Chúng tôi đã tiếp nhận thông tin liên hệ.
+266,Chúng tôi đã tiếp nhận yêu cầu hỗ trợ.
+267,Chúng tôi đã tiếp nhận dữ liệu vừa gửi.
+268,Chúng tôi đã tiếp nhận lịch hẹn của bạn.
+269,Chúng tôi đã tiếp nhận hồ sơ cần xác minh.
+270,Chúng tôi đã tiếp nhận kết quả kiểm tra.
+271,Chúng tôi đang chuẩn bị yêu cầu của bạn.
+272,Chúng tôi đang chuẩn bị thông tin tài khoản.
+273,Chúng tôi đang chuẩn bị kết quả giao dịch.
+274,Chúng tôi đang chuẩn bị nội dung đăng ký.
+275,Chúng tôi đang chuẩn bị thông tin liên hệ.
+276,Chúng tôi đang chuẩn bị yêu cầu hỗ trợ.
+277,Chúng tôi đang chuẩn bị dữ liệu vừa gửi.
+278,Chúng tôi đang chuẩn bị lịch hẹn của bạn.
+279,Chúng tôi đang chuẩn bị hồ sơ cần xác minh.
+280,Chúng tôi đang chuẩn bị kết quả kiểm tra.
+281,Chúng tôi xin kiểm tra yêu cầu của bạn.
+282,Chúng tôi xin kiểm tra thông tin tài khoản.
+283,Chúng tôi xin kiểm tra kết quả giao dịch.
+284,Chúng tôi xin kiểm tra nội dung đăng ký.
+285,Chúng tôi xin kiểm tra thông tin liên hệ.
+286,Chúng tôi xin kiểm tra yêu cầu hỗ trợ.
+287,Chúng tôi xin kiểm tra dữ liệu vừa gửi.
+288,Chúng tôi xin kiểm tra lịch hẹn của bạn.
+289,Chúng tôi xin kiểm tra hồ sơ cần xác minh.
+290,Chúng tôi xin kiểm tra kết quả kiểm tra.
+291,Chúng tôi sẽ gửi thông tin yêu cầu của bạn.
+292,Chúng tôi sẽ gửi thông tin thông tin tài khoản.
+293,Chúng tôi sẽ gửi thông tin kết quả giao dịch.
+294,Chúng tôi sẽ gửi thông tin nội dung đăng ký.
+295,Chúng tôi sẽ gửi thông tin thông tin liên hệ.
+296,Chúng tôi sẽ gửi thông tin yêu cầu hỗ trợ.
+297,Chúng tôi sẽ gửi thông tin dữ liệu vừa gửi.
+298,Chúng tôi sẽ gửi thông tin lịch hẹn của bạn.
+299,Chúng tôi sẽ gửi thông tin hồ sơ cần xác minh.
+300,Chúng tôi sẽ gửi thông tin kết quả kiểm tra.
+301,Bộ phận hỗ trợ đã ghi nhận yêu cầu của bạn.
+302,Bộ phận hỗ trợ đã ghi nhận thông tin tài khoản.
+303,Bộ phận hỗ trợ đã ghi nhận kết quả giao dịch.
+304,Bộ phận hỗ trợ đã ghi nhận nội dung đăng ký.
+305,Bộ phận hỗ trợ đã ghi nhận thông tin liên hệ.
+306,Bộ phận hỗ trợ đã ghi nhận yêu cầu hỗ trợ.
+307,Bộ phận hỗ trợ đã ghi nhận dữ liệu vừa gửi.
+308,Bộ phận hỗ trợ đã ghi nhận lịch hẹn của bạn.
+309,Bộ phận hỗ trợ đã ghi nhận hồ sơ cần xác minh.
+310,Bộ phận hỗ trợ đã ghi nhận kết quả kiểm tra.
+311,Bộ phận hỗ trợ đang kiểm tra yêu cầu của bạn.
+312,Bộ phận hỗ trợ đang kiểm tra thông tin tài khoản.
+313,Bộ phận hỗ trợ đang kiểm tra kết quả giao dịch.
+314,Bộ phận hỗ trợ đang kiểm tra nội dung đăng ký.
+315,Bộ phận hỗ trợ đang kiểm tra thông tin liên hệ.
+316,Bộ phận hỗ trợ đang kiểm tra yêu cầu hỗ trợ.
+317,Bộ phận hỗ trợ đang kiểm tra dữ liệu vừa gửi.
+318,Bộ phận hỗ trợ đang kiểm tra lịch hẹn của bạn.
+319,Bộ phận hỗ trợ đang kiểm tra hồ sơ cần xác minh.
+320,Bộ phận hỗ trợ đang kiểm tra kết quả kiểm tra.
+321,Bộ phận hỗ trợ đã cập nhật yêu cầu của bạn.
+322,Bộ phận hỗ trợ đã cập nhật thông tin tài khoản.
+323,Bộ phận hỗ trợ đã cập nhật kết quả giao dịch.
+324,Bộ phận hỗ trợ đã cập nhật nội dung đăng ký.
+325,Bộ phận hỗ trợ đã cập nhật thông tin liên hệ.
+326,Bộ phận hỗ trợ đã cập nhật yêu cầu hỗ trợ.
+327,Bộ phận hỗ trợ đã cập nhật dữ liệu vừa gửi.
+328,Bộ phận hỗ trợ đã cập nhật lịch hẹn của bạn.
+329,Bộ phận hỗ trợ đã cập nhật hồ sơ cần xác minh.
+330,Bộ phận hỗ trợ đã cập nhật kết quả kiểm tra.
+331,Bộ phận hỗ trợ đang xử lý yêu cầu của bạn.
+332,Bộ phận hỗ trợ đang xử lý thông tin tài khoản.
+333,Bộ phận hỗ trợ đang xử lý kết quả giao dịch.
+334,Bộ phận hỗ trợ đang xử lý nội dung đăng ký.
+335,Bộ phận hỗ trợ đang xử lý thông tin liên hệ.
+336,Bộ phận hỗ trợ đang xử lý yêu cầu hỗ trợ.
+337,Bộ phận hỗ trợ đang xử lý dữ liệu vừa gửi.
+338,Bộ phận hỗ trợ đang xử lý lịch hẹn của bạn.
+339,Bộ phận hỗ trợ đang xử lý hồ sơ cần xác minh.
+340,Bộ phận hỗ trợ đang xử lý kết quả kiểm tra.
+341,Bộ phận hỗ trợ xin xác nhận yêu cầu của bạn.
+342,Bộ phận hỗ trợ xin xác nhận thông tin tài khoản.
+343,Bộ phận hỗ trợ xin xác nhận kết quả giao dịch.
+344,Bộ phận hỗ trợ xin xác nhận nội dung đăng ký.
+345,Bộ phận hỗ trợ xin xác nhận thông tin liên hệ.
+346,Bộ phận hỗ trợ xin xác nhận yêu cầu hỗ trợ.
+347,Bộ phận hỗ trợ xin xác nhận dữ liệu vừa gửi.
+348,Bộ phận hỗ trợ xin xác nhận lịch hẹn của bạn.
+349,Bộ phận hỗ trợ xin xác nhận hồ sơ cần xác minh.
+350,Bộ phận hỗ trợ xin xác nhận kết quả kiểm tra.
+351,Bộ phận hỗ trợ sẽ thông báo yêu cầu của bạn.
+352,Bộ phận hỗ trợ sẽ thông báo thông tin tài khoản.
+353,Bộ phận hỗ trợ sẽ thông báo kết quả giao dịch.
+354,Bộ phận hỗ trợ sẽ thông báo nội dung đăng ký.
+355,Bộ phận hỗ trợ sẽ thông báo thông tin liên hệ.
+356,Bộ phận hỗ trợ sẽ thông báo yêu cầu hỗ trợ.
+357,Bộ phận hỗ trợ sẽ thông báo dữ liệu vừa gửi.
+358,Bộ phận hỗ trợ sẽ thông báo lịch hẹn của bạn.
+359,Bộ phận hỗ trợ sẽ thông báo hồ sơ cần xác minh.
+360,Bộ phận hỗ trợ sẽ thông báo kết quả kiểm tra.
+361,Bộ phận hỗ trợ đã tiếp nhận yêu cầu của bạn.
+362,Bộ phận hỗ trợ đã tiếp nhận thông tin tài khoản.
+363,Bộ phận hỗ trợ đã tiếp nhận kết quả giao dịch.
+364,Bộ phận hỗ trợ đã tiếp nhận nội dung đăng ký.
+365,Bộ phận hỗ trợ đã tiếp nhận thông tin liên hệ.
+366,Bộ phận hỗ trợ đã tiếp nhận yêu cầu hỗ trợ.
+367,Bộ phận hỗ trợ đã tiếp nhận dữ liệu vừa gửi.
+368,Bộ phận hỗ trợ đã tiếp nhận lịch hẹn của bạn.
+369,Bộ phận hỗ trợ đã tiếp nhận hồ sơ cần xác minh.
+370,Bộ phận hỗ trợ đã tiếp nhận kết quả kiểm tra.
+371,Bộ phận hỗ trợ đang chuẩn bị yêu cầu của bạn.
+372,Bộ phận hỗ trợ đang chuẩn bị thông tin tài khoản.
+373,Bộ phận hỗ trợ đang chuẩn bị kết quả giao dịch.
+374,Bộ phận hỗ trợ đang chuẩn bị nội dung đăng ký.
+375,Bộ phận hỗ trợ đang chuẩn bị thông tin liên hệ.
+376,Bộ phận hỗ trợ đang chuẩn bị yêu cầu hỗ trợ.
+377,Bộ phận hỗ trợ đang chuẩn bị dữ liệu vừa gửi.
+378,Bộ phận hỗ trợ đang chuẩn bị lịch hẹn của bạn.
+379,Bộ phận hỗ trợ đang chuẩn bị hồ sơ cần xác minh.
+380,Bộ phận hỗ trợ đang chuẩn bị kết quả kiểm tra.
+381,Bộ phận hỗ trợ xin kiểm tra yêu cầu của bạn.
+382,Bộ phận hỗ trợ xin kiểm tra thông tin tài khoản.
+383,Bộ phận hỗ trợ xin kiểm tra kết quả giao dịch.
+384,Bộ phận hỗ trợ xin kiểm tra nội dung đăng ký.
+385,Bộ phận hỗ trợ xin kiểm tra thông tin liên hệ.
+386,Bộ phận hỗ trợ xin kiểm tra yêu cầu hỗ trợ.
+387,Bộ phận hỗ trợ xin kiểm tra dữ liệu vừa gửi.
+388,Bộ phận hỗ trợ xin kiểm tra lịch hẹn của bạn.
+389,Bộ phận hỗ trợ xin kiểm tra hồ sơ cần xác minh.
+390,Bộ phận hỗ trợ xin kiểm tra kết quả kiểm tra.
+391,Bộ phận hỗ trợ sẽ gửi thông tin yêu cầu của bạn.
+392,Bộ phận hỗ trợ sẽ gửi thông tin thông tin tài khoản.
+393,Bộ phận hỗ trợ sẽ gửi thông tin kết quả giao dịch.
+394,Bộ phận hỗ trợ sẽ gửi thông tin nội dung đăng ký.
+395,Bộ phận hỗ trợ sẽ gửi thông tin thông tin liên hệ.
+396,Bộ phận hỗ trợ sẽ gửi thông tin yêu cầu hỗ trợ.
+397,Bộ phận hỗ trợ sẽ gửi thông tin dữ liệu vừa gửi.
+398,Bộ phận hỗ trợ sẽ gửi thông tin lịch hẹn của bạn.
+399,Bộ phận hỗ trợ sẽ gửi thông tin hồ sơ cần xác minh.
+400,Bộ phận hỗ trợ sẽ gửi thông tin kết quả kiểm tra.
+401,Hệ thống đã ghi nhận yêu cầu của bạn.
+402,Hệ thống đã ghi nhận thông tin tài khoản.
+403,Hệ thống đã ghi nhận kết quả giao dịch.
+404,Hệ thống đã ghi nhận nội dung đăng ký.
+405,Hệ thống đã ghi nhận thông tin liên hệ.
+406,Hệ thống đã ghi nhận yêu cầu hỗ trợ.
+407,Hệ thống đã ghi nhận dữ liệu vừa gửi.
+408,Hệ thống đã ghi nhận lịch hẹn của bạn.
+409,Hệ thống đã ghi nhận hồ sơ cần xác minh.
+410,Hệ thống đã ghi nhận kết quả kiểm tra.
+411,Hệ thống đang kiểm tra yêu cầu của bạn.
+412,Hệ thống đang kiểm tra thông tin tài khoản.
+413,Hệ thống đang kiểm tra kết quả giao dịch.
+414,Hệ thống đang kiểm tra nội dung đăng ký.
+415,Hệ thống đang kiểm tra thông tin liên hệ.
+416,Hệ thống đang kiểm tra yêu cầu hỗ trợ.
+417,Hệ thống đang kiểm tra dữ liệu vừa gửi.
+418,Hệ thống đang kiểm tra lịch hẹn của bạn.
+419,Hệ thống đang kiểm tra hồ sơ cần xác minh.
+420,Hệ thống đang kiểm tra kết quả kiểm tra.
+421,Hệ thống đã cập nhật yêu cầu của bạn.
+422,Hệ thống đã cập nhật thông tin tài khoản.
+423,Hệ thống đã cập nhật kết quả giao dịch.
+424,Hệ thống đã cập nhật nội dung đăng ký.
+425,Hệ thống đã cập nhật thông tin liên hệ.
+426,Hệ thống đã cập nhật yêu cầu hỗ trợ.
+427,Hệ thống đã cập nhật dữ liệu vừa gửi.
+428,Hệ thống đã cập nhật lịch hẹn của bạn.
+429,Hệ thống đã cập nhật hồ sơ cần xác minh.
+430,Hệ thống đã cập nhật kết quả kiểm tra.
+431,Hệ thống đang xử lý yêu cầu của bạn.
+432,Hệ thống đang xử lý thông tin tài khoản.
+433,Hệ thống đang xử lý kết quả giao dịch.
+434,Hệ thống đang xử lý nội dung đăng ký.
+435,Hệ thống đang xử lý thông tin liên hệ.
+436,Hệ thống đang xử lý yêu cầu hỗ trợ.
+437,Hệ thống đang xử lý dữ liệu vừa gửi.
+438,Hệ thống đang xử lý lịch hẹn của bạn.
+439,Hệ thống đang xử lý hồ sơ cần xác minh.
+440,Hệ thống đang xử lý kết quả kiểm tra.
+441,Hệ thống xin xác nhận yêu cầu của bạn.
+442,Hệ thống xin xác nhận thông tin tài khoản.
+443,Hệ thống xin xác nhận kết quả giao dịch.
+444,Hệ thống xin xác nhận nội dung đăng ký.
+445,Hệ thống xin xác nhận thông tin liên hệ.
+446,Hệ thống xin xác nhận yêu cầu hỗ trợ.
+447,Hệ thống xin xác nhận dữ liệu vừa gửi.
+448,Hệ thống xin xác nhận lịch hẹn của bạn.
+449,Hệ thống xin xác nhận hồ sơ cần xác minh.
+450,Hệ thống xin xác nhận kết quả kiểm tra.
+451,Hệ thống sẽ thông báo yêu cầu của bạn.
+452,Hệ thống sẽ thông báo thông tin tài khoản.
+453,Hệ thống sẽ thông báo kết quả giao dịch.
+454,Hệ thống sẽ thông báo nội dung đăng ký.
+455,Hệ thống sẽ thông báo thông tin liên hệ.
+456,Hệ thống sẽ thông báo yêu cầu hỗ trợ.
+457,Hệ thống sẽ thông báo dữ liệu vừa gửi.
+458,Hệ thống sẽ thông báo lịch hẹn của bạn.
+459,Hệ thống sẽ thông báo hồ sơ cần xác minh.
+460,Hệ thống sẽ thông báo kết quả kiểm tra.
+461,Hệ thống đã tiếp nhận yêu cầu của bạn.
+462,Hệ thống đã tiếp nhận thông tin tài khoản.
+463,Hệ thống đã tiếp nhận kết quả giao dịch.
+464,Hệ thống đã tiếp nhận nội dung đăng ký.
+465,Hệ thống đã tiếp nhận thông tin liên hệ.
+466,Hệ thống đã tiếp nhận yêu cầu hỗ trợ.
+467,Hệ thống đã tiếp nhận dữ liệu vừa gửi.
+468,Hệ thống đã tiếp nhận lịch hẹn của bạn.
+469,Hệ thống đã tiếp nhận hồ sơ cần xác minh.
+470,Hệ thống đã tiếp nhận kết quả kiểm tra.
+471,Hệ thống đang chuẩn bị yêu cầu của bạn.
+472,Hệ thống đang chuẩn bị thông tin tài khoản.
+473,Hệ thống đang chuẩn bị kết quả giao dịch.
+474,Hệ thống đang chuẩn bị nội dung đăng ký.
+475,Hệ thống đang chuẩn bị thông tin liên hệ.
+476,Hệ thống đang chuẩn bị yêu cầu hỗ trợ.
+477,Hệ thống đang chuẩn bị dữ liệu vừa gửi.
+478,Hệ thống đang chuẩn bị lịch hẹn của bạn.
+479,Hệ thống đang chuẩn bị hồ sơ cần xác minh.
+480,Hệ thống đang chuẩn bị kết quả kiểm tra.
+481,Hệ thống xin kiểm tra yêu cầu của bạn.
+482,Hệ thống xin kiểm tra thông tin tài khoản.
+483,Hệ thống xin kiểm tra kết quả giao dịch.
+484,Hệ thống xin kiểm tra nội dung đăng ký.
+485,Hệ thống xin kiểm tra thông tin liên hệ.
+486,Hệ thống xin kiểm tra yêu cầu hỗ trợ.
+487,Hệ thống xin kiểm tra dữ liệu vừa gửi.
+488,Hệ thống xin kiểm tra lịch hẹn của bạn.
+489,Hệ thống xin kiểm tra hồ sơ cần xác minh.
+490,Hệ thống xin kiểm tra kết quả kiểm tra.
+491,Hệ thống sẽ gửi thông tin yêu cầu của bạn.
+492,Hệ thống sẽ gửi thông tin thông tin tài khoản.
+493,Hệ thống sẽ gửi thông tin kết quả giao dịch.
+494,Hệ thống sẽ gửi thông tin nội dung đăng ký.
+495,Hệ thống sẽ gửi thông tin thông tin liên hệ.
+496,Hệ thống sẽ gửi thông tin yêu cầu hỗ trợ.
+497,Hệ thống sẽ gửi thông tin dữ liệu vừa gửi.
+498,Hệ thống sẽ gửi thông tin lịch hẹn của bạn.
+499,Hệ thống sẽ gửi thông tin hồ sơ cần xác minh.
+500,Hệ thống sẽ gửi thông tin kết quả kiểm tra.
+501,Nhân viên đã ghi nhận yêu cầu của bạn.
+502,Nhân viên đã ghi nhận thông tin tài khoản.
+503,Nhân viên đã ghi nhận kết quả giao dịch.
+504,Nhân viên đã ghi nhận nội dung đăng ký.
+505,Nhân viên đã ghi nhận thông tin liên hệ.
+506,Nhân viên đã ghi nhận yêu cầu hỗ trợ.
+507,Nhân viên đã ghi nhận dữ liệu vừa gửi.
+508,Nhân viên đã ghi nhận lịch hẹn của bạn.
+509,Nhân viên đã ghi nhận hồ sơ cần xác minh.
+510,Nhân viên đã ghi nhận kết quả kiểm tra.
+511,Nhân viên đang kiểm tra yêu cầu của bạn.
+512,Nhân viên đang kiểm tra thông tin tài khoản.
+513,Nhân viên đang kiểm tra kết quả giao dịch.
+514,Nhân viên đang kiểm tra nội dung đăng ký.
+515,Nhân viên đang kiểm tra thông tin liên hệ.
+516,Nhân viên đang kiểm tra yêu cầu hỗ trợ.
+517,Nhân viên đang kiểm tra dữ liệu vừa gửi.
+518,Nhân viên đang kiểm tra lịch hẹn của bạn.
+519,Nhân viên đang kiểm tra hồ sơ cần xác minh.
+520,Nhân viên đang kiểm tra kết quả kiểm tra.
+521,Nhân viên đã cập nhật yêu cầu của bạn.
+522,Nhân viên đã cập nhật thông tin tài khoản.
+523,Nhân viên đã cập nhật kết quả giao dịch.
+524,Nhân viên đã cập nhật nội dung đăng ký.
+525,Nhân viên đã cập nhật thông tin liên hệ.
+526,Nhân viên đã cập nhật yêu cầu hỗ trợ.
+527,Nhân viên đã cập nhật dữ liệu vừa gửi.
+528,Nhân viên đã cập nhật lịch hẹn của bạn.
+529,Nhân viên đã cập nhật hồ sơ cần xác minh.
+530,Nhân viên đã cập nhật kết quả kiểm tra.
+531,Nhân viên đang xử lý yêu cầu của bạn.
+532,Nhân viên đang xử lý thông tin tài khoản.
+533,Nhân viên đang xử lý kết quả giao dịch.
+534,Nhân viên đang xử lý nội dung đăng ký.
+535,Nhân viên đang xử lý thông tin liên hệ.
+536,Nhân viên đang xử lý yêu cầu hỗ trợ.
+537,Nhân viên đang xử lý dữ liệu vừa gửi.
+538,Nhân viên đang xử lý lịch hẹn của bạn.
+539,Nhân viên đang xử lý hồ sơ cần xác minh.
+540,Nhân viên đang xử lý kết quả kiểm tra.
+541,Nhân viên xin xác nhận yêu cầu của bạn.
+542,Nhân viên xin xác nhận thông tin tài khoản.
+543,Nhân viên xin xác nhận kết quả giao dịch.
+544,Nhân viên xin xác nhận nội dung đăng ký.
+545,Nhân viên xin xác nhận thông tin liên hệ.
+546,Nhân viên xin xác nhận yêu cầu hỗ trợ.
+547,Nhân viên xin xác nhận dữ liệu vừa gửi.
+548,Nhân viên xin xác nhận lịch hẹn của bạn.
+549,Nhân viên xin xác nhận hồ sơ cần xác minh.
+550,Nhân viên xin xác nhận kết quả kiểm tra.
+551,Nhân viên sẽ thông báo yêu cầu của bạn.
+552,Nhân viên sẽ thông báo thông tin tài khoản.
+553,Nhân viên sẽ thông báo kết quả giao dịch.
+554,Nhân viên sẽ thông báo nội dung đăng ký.
+555,Nhân viên sẽ thông báo thông tin liên hệ.
+556,Nhân viên sẽ thông báo yêu cầu hỗ trợ.
+557,Nhân viên sẽ thông báo dữ liệu vừa gửi.
+558,Nhân viên sẽ thông báo lịch hẹn của bạn.
+559,Nhân viên sẽ thông báo hồ sơ cần xác minh.
+560,Nhân viên sẽ thông báo kết quả kiểm tra.
+561,Nhân viên đã tiếp nhận yêu cầu của bạn.
+562,Nhân viên đã tiếp nhận thông tin tài khoản.
+563,Nhân viên đã tiếp nhận kết quả giao dịch.
+564,Nhân viên đã tiếp nhận nội dung đăng ký.
+565,Nhân viên đã tiếp nhận thông tin liên hệ.
+566,Nhân viên đã tiếp nhận yêu cầu hỗ trợ.
+567,Nhân viên đã tiếp nhận dữ liệu vừa gửi.
+568,Nhân viên đã tiếp nhận lịch hẹn của bạn.
+569,Nhân viên đã tiếp nhận hồ sơ cần xác minh.
+570,Nhân viên đã tiếp nhận kết quả kiểm tra.
+571,Nhân viên đang chuẩn bị yêu cầu của bạn.
+572,Nhân viên đang chuẩn bị thông tin tài khoản.
+573,Nhân viên đang chuẩn bị kết quả giao dịch.
+574,Nhân viên đang chuẩn bị nội dung đăng ký.
+575,Nhân viên đang chuẩn bị thông tin liên hệ.
+576,Nhân viên đang chuẩn bị yêu cầu hỗ trợ.
+577,Nhân viên đang chuẩn bị dữ liệu vừa gửi.
+578,Nhân viên đang chuẩn bị lịch hẹn của bạn.
+579,Nhân viên đang chuẩn bị hồ sơ cần xác minh.
+580,Nhân viên đang chuẩn bị kết quả kiểm tra.
+581,Nhân viên xin kiểm tra yêu cầu của bạn.
+582,Nhân viên xin kiểm tra thông tin tài khoản.
+583,Nhân viên xin kiểm tra kết quả giao dịch.
+584,Nhân viên xin kiểm tra nội dung đăng ký.
+585,Nhân viên xin kiểm tra thông tin liên hệ.
+586,Nhân viên xin kiểm tra yêu cầu hỗ trợ.
+587,Nhân viên xin kiểm tra dữ liệu vừa gửi.
+588,Nhân viên xin kiểm tra lịch hẹn của bạn.
+589,Nhân viên xin kiểm tra hồ sơ cần xác minh.
+590,Nhân viên xin kiểm tra kết quả kiểm tra.
+591,Nhân viên sẽ gửi thông tin yêu cầu của bạn.
+592,Nhân viên sẽ gửi thông tin thông tin tài khoản.
+593,Nhân viên sẽ gửi thông tin kết quả giao dịch.
+594,Nhân viên sẽ gửi thông tin nội dung đăng ký.
+595,Nhân viên sẽ gửi thông tin thông tin liên hệ.
+596,Nhân viên sẽ gửi thông tin yêu cầu hỗ trợ.
+597,Nhân viên sẽ gửi thông tin dữ liệu vừa gửi.
+598,Nhân viên sẽ gửi thông tin lịch hẹn của bạn.
+599,Nhân viên sẽ gửi thông tin hồ sơ cần xác minh.
+600,Nhân viên sẽ gửi thông tin kết quả kiểm tra.
+601,Khách hàng đã ghi nhận yêu cầu của bạn.
+602,Khách hàng đã ghi nhận thông tin tài khoản.
+603,Khách hàng đã ghi nhận kết quả giao dịch.
+604,Khách hàng đã ghi nhận nội dung đăng ký.
+605,Khách hàng đã ghi nhận thông tin liên hệ.
+606,Khách hàng đã ghi nhận yêu cầu hỗ trợ.
+607,Khách hàng đã ghi nhận dữ liệu vừa gửi.
+608,Khách hàng đã ghi nhận lịch hẹn của bạn.
+609,Khách hàng đã ghi nhận hồ sơ cần xác minh.
+610,Khách hàng đã ghi nhận kết quả kiểm tra.
+611,Khách hàng đang kiểm tra yêu cầu của bạn.
+612,Khách hàng đang kiểm tra thông tin tài khoản.
+613,Khách hàng đang kiểm tra kết quả giao dịch.
+614,Khách hàng đang kiểm tra nội dung đăng ký.
+615,Khách hàng đang kiểm tra thông tin liên hệ.
+616,Khách hàng đang kiểm tra yêu cầu hỗ trợ.
+617,Khách hàng đang kiểm tra dữ liệu vừa gửi.
+618,Khách hàng đang kiểm tra lịch hẹn của bạn.
+619,Khách hàng đang kiểm tra hồ sơ cần xác minh.
+620,Khách hàng đang kiểm tra kết quả kiểm tra.
+621,Khách hàng đã cập nhật yêu cầu của bạn.
+622,Khách hàng đã cập nhật thông tin tài khoản.
+623,Khách hàng đã cập nhật kết quả giao dịch.
+624,Khách hàng đã cập nhật nội dung đăng ký.
+625,Khách hàng đã cập nhật thông tin liên hệ.
+626,Khách hàng đã cập nhật yêu cầu hỗ trợ.
+627,Khách hàng đã cập nhật dữ liệu vừa gửi.
+628,Khách hàng đã cập nhật lịch hẹn của bạn.
+629,Khách hàng đã cập nhật hồ sơ cần xác minh.
+630,Khách hàng đã cập nhật kết quả kiểm tra.
+631,Khách hàng đang xử lý yêu cầu của bạn.
+632,Khách hàng đang xử lý thông tin tài khoản.
+633,Khách hàng đang xử lý kết quả giao dịch.
+634,Khách hàng đang xử lý nội dung đăng ký.
+635,Khách hàng đang xử lý thông tin liên hệ.
+636,Khách hàng đang xử lý yêu cầu hỗ trợ.
+637,Khách hàng đang xử lý dữ liệu vừa gửi.
+638,Khách hàng đang xử lý lịch hẹn của bạn.
+639,Khách hàng đang xử lý hồ sơ cần xác minh.
+640,Khách hàng đang xử lý kết quả kiểm tra.
+641,Khách hàng xin xác nhận yêu cầu của bạn.
+642,Khách hàng xin xác nhận thông tin tài khoản.
+643,Khách hàng xin xác nhận kết quả giao dịch.
+644,Khách hàng xin xác nhận nội dung đăng ký.
+645,Khách hàng xin xác nhận thông tin liên hệ.
+646,Khách hàng xin xác nhận yêu cầu hỗ trợ.
+647,Khách hàng xin xác nhận dữ liệu vừa gửi.
+648,Khách hàng xin xác nhận lịch hẹn của bạn.
+649,Khách hàng xin xác nhận hồ sơ cần xác minh.
+650,Khách hàng xin xác nhận kết quả kiểm tra.
+651,Khách hàng sẽ thông báo yêu cầu của bạn.
+652,Khách hàng sẽ thông báo thông tin tài khoản.
+653,Khách hàng sẽ thông báo kết quả giao dịch.
+654,Khách hàng sẽ thông báo nội dung đăng ký.
+655,Khách hàng sẽ thông báo thông tin liên hệ.
+656,Khách hàng sẽ thông báo yêu cầu hỗ trợ.
+657,Khách hàng sẽ thông báo dữ liệu vừa gửi.
+658,Khách hàng sẽ thông báo lịch hẹn của bạn.
+659,Khách hàng sẽ thông báo hồ sơ cần xác minh.
+660,Khách hàng sẽ thông báo kết quả kiểm tra.
+661,Khách hàng đã tiếp nhận yêu cầu của bạn.
+662,Khách hàng đã tiếp nhận thông tin tài khoản.
+663,Khách hàng đã tiếp nhận kết quả giao dịch.
+664,Khách hàng đã tiếp nhận nội dung đăng ký.
+665,Khách hàng đã tiếp nhận thông tin liên hệ.
+666,Khách hàng đã tiếp nhận yêu cầu hỗ trợ.
+667,Khách hàng đã tiếp nhận dữ liệu vừa gửi.
+668,Khách hàng đã tiếp nhận lịch hẹn của bạn.
+669,Khách hàng đã tiếp nhận hồ sơ cần xác minh.
+670,Khách hàng đã tiếp nhận kết quả kiểm tra.
+671,Khách hàng đang chuẩn bị yêu cầu của bạn.
+672,Khách hàng đang chuẩn bị thông tin tài khoản.
+673,Khách hàng đang chuẩn bị kết quả giao dịch.
+674,Khách hàng đang chuẩn bị nội dung đăng ký.
+675,Khách hàng đang chuẩn bị thông tin liên hệ.
+676,Khách hàng đang chuẩn bị yêu cầu hỗ trợ.
+677,Khách hàng đang chuẩn bị dữ liệu vừa gửi.
+678,Khách hàng đang chuẩn bị lịch hẹn của bạn.
+679,Khách hàng đang chuẩn bị hồ sơ cần xác minh.
+680,Khách hàng đang chuẩn bị kết quả kiểm tra.
+681,Khách hàng xin kiểm tra yêu cầu của bạn.
+682,Khách hàng xin kiểm tra thông tin tài khoản.
+683,Khách hàng xin kiểm tra kết quả giao dịch.
+684,Khách hàng xin kiểm tra nội dung đăng ký.
+685,Khách hàng xin kiểm tra thông tin liên hệ.
+686,Khách hàng xin kiểm tra yêu cầu hỗ trợ.
+687,Khách hàng xin kiểm tra dữ liệu vừa gửi.
+688,Khách hàng xin kiểm tra lịch hẹn của bạn.
+689,Khách hàng xin kiểm tra hồ sơ cần xác minh.
+690,Khách hàng xin kiểm tra kết quả kiểm tra.
+691,Khách hàng sẽ gửi thông tin yêu cầu của bạn.
+692,Khách hàng sẽ gửi thông tin thông tin tài khoản.
+693,Khách hàng sẽ gửi thông tin kết quả giao dịch.
+694,Khách hàng sẽ gửi thông tin nội dung đăng ký.
+695,Khách hàng sẽ gửi thông tin thông tin liên hệ.
+696,Khách hàng sẽ gửi thông tin yêu cầu hỗ trợ.
+697,Khách hàng sẽ gửi thông tin dữ liệu vừa gửi.
+698,Khách hàng sẽ gửi thông tin lịch hẹn của bạn.
+699,Khách hàng sẽ gửi thông tin hồ sơ cần xác minh.
+700,Khách hàng sẽ gửi thông tin kết quả kiểm tra.
+701,Trung tâm đã ghi nhận yêu cầu của bạn.
+702,Trung tâm đã ghi nhận thông tin tài khoản.
+703,Trung tâm đã ghi nhận kết quả giao dịch.
+704,Trung tâm đã ghi nhận nội dung đăng ký.
+705,Trung tâm đã ghi nhận thông tin liên hệ.
+706,Trung tâm đã ghi nhận yêu cầu hỗ trợ.
+707,Trung tâm đã ghi nhận dữ liệu vừa gửi.
+708,Trung tâm đã ghi nhận lịch hẹn của bạn.
+709,Trung tâm đã ghi nhận hồ sơ cần xác minh.
+710,Trung tâm đã ghi nhận kết quả kiểm tra.
+711,Trung tâm đang kiểm tra yêu cầu của bạn.
+712,Trung tâm đang kiểm tra thông tin tài khoản.
+713,Trung tâm đang kiểm tra kết quả giao dịch.
+714,Trung tâm đang kiểm tra nội dung đăng ký.
+715,Trung tâm đang kiểm tra thông tin liên hệ.
+716,Trung tâm đang kiểm tra yêu cầu hỗ trợ.
+717,Trung tâm đang kiểm tra dữ liệu vừa gửi.
+718,Trung tâm đang kiểm tra lịch hẹn của bạn.
+719,Trung tâm đang kiểm tra hồ sơ cần xác minh.
+720,Trung tâm đang kiểm tra kết quả kiểm tra.
+721,Trung tâm đã cập nhật yêu cầu của bạn.
+722,Trung tâm đã cập nhật thông tin tài khoản.
+723,Trung tâm đã cập nhật kết quả giao dịch.
+724,Trung tâm đã cập nhật nội dung đăng ký.
+725,Trung tâm đã cập nhật thông tin liên hệ.
+726,Trung tâm đã cập nhật yêu cầu hỗ trợ.
+727,Trung tâm đã cập nhật dữ liệu vừa gửi.
+728,Trung tâm đã cập nhật lịch hẹn của bạn.
+729,Trung tâm đã cập nhật hồ sơ cần xác minh.
+730,Trung tâm đã cập nhật kết quả kiểm tra.
+731,Trung tâm đang xử lý yêu cầu của bạn.
+732,Trung tâm đang xử lý thông tin tài khoản.
+733,Trung tâm đang xử lý kết quả giao dịch.
+734,Trung tâm đang xử lý nội dung đăng ký.
+735,Trung tâm đang xử lý thông tin liên hệ.
+736,Trung tâm đang xử lý yêu cầu hỗ trợ.
+737,Trung tâm đang xử lý dữ liệu vừa gửi.
+738,Trung tâm đang xử lý lịch hẹn của bạn.
+739,Trung tâm đang xử lý hồ sơ cần xác minh.
+740,Trung tâm đang xử lý kết quả kiểm tra.
+741,Trung tâm xin xác nhận yêu cầu của bạn.
+742,Trung tâm xin xác nhận thông tin tài khoản.
+743,Trung tâm xin xác nhận kết quả giao dịch.
+744,Trung tâm xin xác nhận nội dung đăng ký.
+745,Trung tâm xin xác nhận thông tin liên hệ.
+746,Trung tâm xin xác nhận yêu cầu hỗ trợ.
+747,Trung tâm xin xác nhận dữ liệu vừa gửi.
+748,Trung tâm xin xác nhận lịch hẹn của bạn.
+749,Trung tâm xin xác nhận hồ sơ cần xác minh.
+750,Trung tâm xin xác nhận kết quả kiểm tra.
+751,Trung tâm sẽ thông báo yêu cầu của bạn.
+752,Trung tâm sẽ thông báo thông tin tài khoản.
+753,Trung tâm sẽ thông báo kết quả giao dịch.
+754,Trung tâm sẽ thông báo nội dung đăng ký.
+755,Trung tâm sẽ thông báo thông tin liên hệ.
+756,Trung tâm sẽ thông báo yêu cầu hỗ trợ.
+757,Trung tâm sẽ thông báo dữ liệu vừa gửi.
+758,Trung tâm sẽ thông báo lịch hẹn của bạn.
+759,Trung tâm sẽ thông báo hồ sơ cần xác minh.
+760,Trung tâm sẽ thông báo kết quả kiểm tra.
+761,Trung tâm đã tiếp nhận yêu cầu của bạn.
+762,Trung tâm đã tiếp nhận thông tin tài khoản.
+763,Trung tâm đã tiếp nhận kết quả giao dịch.
+764,Trung tâm đã tiếp nhận nội dung đăng ký.
+765,Trung tâm đã tiếp nhận thông tin liên hệ.
+766,Trung tâm đã tiếp nhận yêu cầu hỗ trợ.
+767,Trung tâm đã tiếp nhận dữ liệu vừa gửi.
+768,Trung tâm đã tiếp nhận lịch hẹn của bạn.
+769,Trung tâm đã tiếp nhận hồ sơ cần xác minh.
+770,Trung tâm đã tiếp nhận kết quả kiểm tra.
+771,Trung tâm đang chuẩn bị yêu cầu của bạn.
+772,Trung tâm đang chuẩn bị thông tin tài khoản.
+773,Trung tâm đang chuẩn bị kết quả giao dịch.
+774,Trung tâm đang chuẩn bị nội dung đăng ký.
+775,Trung tâm đang chuẩn bị thông tin liên hệ.
+776,Trung tâm đang chuẩn bị yêu cầu hỗ trợ.
+777,Trung tâm đang chuẩn bị dữ liệu vừa gửi.
+778,Trung tâm đang chuẩn bị lịch hẹn của bạn.
+779,Trung tâm đang chuẩn bị hồ sơ cần xác minh.
+780,Trung tâm đang chuẩn bị kết quả kiểm tra.
+781,Trung tâm xin kiểm tra yêu cầu của bạn.
+782,Trung tâm xin kiểm tra thông tin tài khoản.
+783,Trung tâm xin kiểm tra kết quả giao dịch.
+784,Trung tâm xin kiểm tra nội dung đăng ký.
+785,Trung tâm xin kiểm tra thông tin liên hệ.
+786,Trung tâm xin kiểm tra yêu cầu hỗ trợ.
+787,Trung tâm xin kiểm tra dữ liệu vừa gửi.
+788,Trung tâm xin kiểm tra lịch hẹn của bạn.
+789,Trung tâm xin kiểm tra hồ sơ cần xác minh.
+790,Trung tâm xin kiểm tra kết quả kiểm tra.
+791,Trung tâm sẽ gửi thông tin yêu cầu của bạn.
+792,Trung tâm sẽ gửi thông tin thông tin tài khoản.
+793,Trung tâm sẽ gửi thông tin kết quả giao dịch.
+794,Trung tâm sẽ gửi thông tin nội dung đăng ký.
+795,Trung tâm sẽ gửi thông tin thông tin liên hệ.
+796,Trung tâm sẽ gửi thông tin yêu cầu hỗ trợ.
+797,Trung tâm sẽ gửi thông tin dữ liệu vừa gửi.
+798,Trung tâm sẽ gửi thông tin lịch hẹn của bạn.
+799,Trung tâm sẽ gửi thông tin hồ sơ cần xác minh.
+800,Trung tâm sẽ gửi thông tin kết quả kiểm tra.
+801,Phòng kỹ thuật đã ghi nhận yêu cầu của bạn.
+802,Phòng kỹ thuật đã ghi nhận thông tin tài khoản.
+803,Phòng kỹ thuật đã ghi nhận kết quả giao dịch.
+804,Phòng kỹ thuật đã ghi nhận nội dung đăng ký.
+805,Phòng kỹ thuật đã ghi nhận thông tin liên hệ.
+806,Phòng kỹ thuật đã ghi nhận yêu cầu hỗ trợ.
+807,Phòng kỹ thuật đã ghi nhận dữ liệu vừa gửi.
+808,Phòng kỹ thuật đã ghi nhận lịch hẹn của bạn.
+809,Phòng kỹ thuật đã ghi nhận hồ sơ cần xác minh.
+810,Phòng kỹ thuật đã ghi nhận kết quả kiểm tra.
+811,Phòng kỹ thuật đang kiểm tra yêu cầu của bạn.
+812,Phòng kỹ thuật đang kiểm tra thông tin tài khoản.
+813,Phòng kỹ thuật đang kiểm tra kết quả giao dịch.
+814,Phòng kỹ thuật đang kiểm tra nội dung đăng ký.
+815,Phòng kỹ thuật đang kiểm tra thông tin liên hệ.
+816,Phòng kỹ thuật đang kiểm tra yêu cầu hỗ trợ.
+817,Phòng kỹ thuật đang kiểm tra dữ liệu vừa gửi.
+818,Phòng kỹ thuật đang kiểm tra lịch hẹn của bạn.
+819,Phòng kỹ thuật đang kiểm tra hồ sơ cần xác minh.
+820,Phòng kỹ thuật đang kiểm tra kết quả kiểm tra.
+821,Phòng kỹ thuật đã cập nhật yêu cầu của bạn.
+822,Phòng kỹ thuật đã cập nhật thông tin tài khoản.
+823,Phòng kỹ thuật đã cập nhật kết quả giao dịch.
+824,Phòng kỹ thuật đã cập nhật nội dung đăng ký.
+825,Phòng kỹ thuật đã cập nhật thông tin liên hệ.
+826,Phòng kỹ thuật đã cập nhật yêu cầu hỗ trợ.
+827,Phòng kỹ thuật đã cập nhật dữ liệu vừa gửi.
+828,Phòng kỹ thuật đã cập nhật lịch hẹn của bạn.
+829,Phòng kỹ thuật đã cập nhật hồ sơ cần xác minh.
+830,Phòng kỹ thuật đã cập nhật kết quả kiểm tra.
+831,Phòng kỹ thuật đang xử lý yêu cầu của bạn.
+832,Phòng kỹ thuật đang xử lý thông tin tài khoản.
+833,Phòng kỹ thuật đang xử lý kết quả giao dịch.
+834,Phòng kỹ thuật đang xử lý nội dung đăng ký.
+835,Phòng kỹ thuật đang xử lý thông tin liên hệ.
+836,Phòng kỹ thuật đang xử lý yêu cầu hỗ trợ.
+837,Phòng kỹ thuật đang xử lý dữ liệu vừa gửi.
+838,Phòng kỹ thuật đang xử lý lịch hẹn của bạn.
+839,Phòng kỹ thuật đang xử lý hồ sơ cần xác minh.
+840,Phòng kỹ thuật đang xử lý kết quả kiểm tra.
+841,Phòng kỹ thuật xin xác nhận yêu cầu của bạn.
+842,Phòng kỹ thuật xin xác nhận thông tin tài khoản.
+843,Phòng kỹ thuật xin xác nhận kết quả giao dịch.
+844,Phòng kỹ thuật xin xác nhận nội dung đăng ký.
+845,Phòng kỹ thuật xin xác nhận thông tin liên hệ.
+846,Phòng kỹ thuật xin xác nhận yêu cầu hỗ trợ.
+847,Phòng kỹ thuật xin xác nhận dữ liệu vừa gửi.
+848,Phòng kỹ thuật xin xác nhận lịch hẹn của bạn.
+849,Phòng kỹ thuật xin xác nhận hồ sơ cần xác minh.
+850,Phòng kỹ thuật xin xác nhận kết quả kiểm tra.
+851,Phòng kỹ thuật sẽ thông báo yêu cầu của bạn.
+852,Phòng kỹ thuật sẽ thông báo thông tin tài khoản.
+853,Phòng kỹ thuật sẽ thông báo kết quả giao dịch.
+854,Phòng kỹ thuật sẽ thông báo nội dung đăng ký.
+855,Phòng kỹ thuật sẽ thông báo thông tin liên hệ.
+856,Phòng kỹ thuật sẽ thông báo yêu cầu hỗ trợ.
+857,Phòng kỹ thuật sẽ thông báo dữ liệu vừa gửi.
+858,Phòng kỹ thuật sẽ thông báo lịch hẹn của bạn.
+859,Phòng kỹ thuật sẽ thông báo hồ sơ cần xác minh.
+860,Phòng kỹ thuật sẽ thông báo kết quả kiểm tra.
+861,Phòng kỹ thuật đã tiếp nhận yêu cầu của bạn.
+862,Phòng kỹ thuật đã tiếp nhận thông tin tài khoản.
+863,Phòng kỹ thuật đã tiếp nhận kết quả giao dịch.
+864,Phòng kỹ thuật đã tiếp nhận nội dung đăng ký.
+865,Phòng kỹ thuật đã tiếp nhận thông tin liên hệ.
+866,Phòng kỹ thuật đã tiếp nhận yêu cầu hỗ trợ.
+867,Phòng kỹ thuật đã tiếp nhận dữ liệu vừa gửi.
+868,Phòng kỹ thuật đã tiếp nhận lịch hẹn của bạn.
+869,Phòng kỹ thuật đã tiếp nhận hồ sơ cần xác minh.
+870,Phòng kỹ thuật đã tiếp nhận kết quả kiểm tra.
+871,Phòng kỹ thuật đang chuẩn bị yêu cầu của bạn.
+872,Phòng kỹ thuật đang chuẩn bị thông tin tài khoản.
+873,Phòng kỹ thuật đang chuẩn bị kết quả giao dịch.
+874,Phòng kỹ thuật đang chuẩn bị nội dung đăng ký.
+875,Phòng kỹ thuật đang chuẩn bị thông tin liên hệ.
+876,Phòng kỹ thuật đang chuẩn bị yêu cầu hỗ trợ.
+877,Phòng kỹ thuật đang chuẩn bị dữ liệu vừa gửi.
+878,Phòng kỹ thuật đang chuẩn bị lịch hẹn của bạn.
+879,Phòng kỹ thuật đang chuẩn bị hồ sơ cần xác minh.
+880,Phòng kỹ thuật đang chuẩn bị kết quả kiểm tra.
+881,Phòng kỹ thuật xin kiểm tra yêu cầu của bạn.
+882,Phòng kỹ thuật xin kiểm tra thông tin tài khoản.
+883,Phòng kỹ thuật xin kiểm tra kết quả giao dịch.
+884,Phòng kỹ thuật xin kiểm tra nội dung đăng ký.
+885,Phòng kỹ thuật xin kiểm tra thông tin liên hệ.
+886,Phòng kỹ thuật xin kiểm tra yêu cầu hỗ trợ.
+887,Phòng kỹ thuật xin kiểm tra dữ liệu vừa gửi.
+888,Phòng kỹ thuật xin kiểm tra lịch hẹn của bạn.
+889,Phòng kỹ thuật xin kiểm tra hồ sơ cần xác minh.
+890,Phòng kỹ thuật xin kiểm tra kết quả kiểm tra.
+891,Phòng kỹ thuật sẽ gửi thông tin yêu cầu của bạn.
+892,Phòng kỹ thuật sẽ gửi thông tin thông tin tài khoản.
+893,Phòng kỹ thuật sẽ gửi thông tin kết quả giao dịch.
+894,Phòng kỹ thuật sẽ gửi thông tin nội dung đăng ký.
+895,Phòng kỹ thuật sẽ gửi thông tin thông tin liên hệ.
+896,Phòng kỹ thuật sẽ gửi thông tin yêu cầu hỗ trợ.
+897,Phòng kỹ thuật sẽ gửi thông tin dữ liệu vừa gửi.
+898,Phòng kỹ thuật sẽ gửi thông tin lịch hẹn của bạn.
+899,Phòng kỹ thuật sẽ gửi thông tin hồ sơ cần xác minh.
+900,Phòng kỹ thuật sẽ gửi thông tin kết quả kiểm tra.
+901,Đội ngũ chăm sóc khách hàng đã ghi nhận yêu cầu của bạn.
+902,Đội ngũ chăm sóc khách hàng đã ghi nhận thông tin tài khoản.
+903,Đội ngũ chăm sóc khách hàng đã ghi nhận kết quả giao dịch.
+904,Đội ngũ chăm sóc khách hàng đã ghi nhận nội dung đăng ký.
+905,Đội ngũ chăm sóc khách hàng đã ghi nhận thông tin liên hệ.
+906,Đội ngũ chăm sóc khách hàng đã ghi nhận yêu cầu hỗ trợ.
+907,Đội ngũ chăm sóc khách hàng đã ghi nhận dữ liệu vừa gửi.
+908,Đội ngũ chăm sóc khách hàng đã ghi nhận lịch hẹn của bạn.
+909,Đội ngũ chăm sóc khách hàng đã ghi nhận hồ sơ cần xác minh.
+910,Đội ngũ chăm sóc khách hàng đã ghi nhận kết quả kiểm tra.
+911,Đội ngũ chăm sóc khách hàng đang kiểm tra yêu cầu của bạn.
+912,Đội ngũ chăm sóc khách hàng đang kiểm tra thông tin tài khoản.
+913,Đội ngũ chăm sóc khách hàng đang kiểm tra kết quả giao dịch.
+914,Đội ngũ chăm sóc khách hàng đang kiểm tra nội dung đăng ký.
+915,Đội ngũ chăm sóc khách hàng đang kiểm tra thông tin liên hệ.
+916,Đội ngũ chăm sóc khách hàng đang kiểm tra yêu cầu hỗ trợ.
+917,Đội ngũ chăm sóc khách hàng đang kiểm tra dữ liệu vừa gửi.
+918,Đội ngũ chăm sóc khách hàng đang kiểm tra lịch hẹn của bạn.
+919,Đội ngũ chăm sóc khách hàng đang kiểm tra hồ sơ cần xác minh.
+920,Đội ngũ chăm sóc khách hàng đang kiểm tra kết quả kiểm tra.
+921,Đội ngũ chăm sóc khách hàng đã cập nhật yêu cầu của bạn.
+922,Đội ngũ chăm sóc khách hàng đã cập nhật thông tin tài khoản.
+923,Đội ngũ chăm sóc khách hàng đã cập nhật kết quả giao dịch.
+924,Đội ngũ chăm sóc khách hàng đã cập nhật nội dung đăng ký.
+925,Đội ngũ chăm sóc khách hàng đã cập nhật thông tin liên hệ.
+926,Đội ngũ chăm sóc khách hàng đã cập nhật yêu cầu hỗ trợ.
+927,Đội ngũ chăm sóc khách hàng đã cập nhật dữ liệu vừa gửi.
+928,Đội ngũ chăm sóc khách hàng đã cập nhật lịch hẹn của bạn.
+929,Đội ngũ chăm sóc khách hàng đã cập nhật hồ sơ cần xác minh.
+930,Đội ngũ chăm sóc khách hàng đã cập nhật kết quả kiểm tra.
+931,Đội ngũ chăm sóc khách hàng đang xử lý yêu cầu của bạn.
+932,Đội ngũ chăm sóc khách hàng đang xử lý thông tin tài khoản.
+933,Đội ngũ chăm sóc khách hàng đang xử lý kết quả giao dịch.
+934,Đội ngũ chăm sóc khách hàng đang xử lý nội dung đăng ký.
+935,Đội ngũ chăm sóc khách hàng đang xử lý thông tin liên hệ.
+936,Đội ngũ chăm sóc khách hàng đang xử lý yêu cầu hỗ trợ.
+937,Đội ngũ chăm sóc khách hàng đang xử lý dữ liệu vừa gửi.
+938,Đội ngũ chăm sóc khách hàng đang xử lý lịch hẹn của bạn.
+939,Đội ngũ chăm sóc khách hàng đang xử lý hồ sơ cần xác minh.
+940,Đội ngũ chăm sóc khách hàng đang xử lý kết quả kiểm tra.
+941,Đội ngũ chăm sóc khách hàng xin xác nhận yêu cầu của bạn.
+942,Đội ngũ chăm sóc khách hàng xin xác nhận thông tin tài khoản.
+943,Đội ngũ chăm sóc khách hàng xin xác nhận kết quả giao dịch.
+944,Đội ngũ chăm sóc khách hàng xin xác nhận nội dung đăng ký.
+945,Đội ngũ chăm sóc khách hàng xin xác nhận thông tin liên hệ.
+946,Đội ngũ chăm sóc khách hàng xin xác nhận yêu cầu hỗ trợ.
+947,Đội ngũ chăm sóc khách hàng xin xác nhận dữ liệu vừa gửi.
+948,Đội ngũ chăm sóc khách hàng xin xác nhận lịch hẹn của bạn.
+949,Đội ngũ chăm sóc khách hàng xin xác nhận hồ sơ cần xác minh.
+950,Đội ngũ chăm sóc khách hàng xin xác nhận kết quả kiểm tra.
+951,Đội ngũ chăm sóc khách hàng sẽ thông báo yêu cầu của bạn.
+952,Đội ngũ chăm sóc khách hàng sẽ thông báo thông tin tài khoản.
+953,Đội ngũ chăm sóc khách hàng sẽ thông báo kết quả giao dịch.
+954,Đội ngũ chăm sóc khách hàng sẽ thông báo nội dung đăng ký.
+955,Đội ngũ chăm sóc khách hàng sẽ thông báo thông tin liên hệ.
+956,Đội ngũ chăm sóc khách hàng sẽ thông báo yêu cầu hỗ trợ.
+957,Đội ngũ chăm sóc khách hàng sẽ thông báo dữ liệu vừa gửi.
+958,Đội ngũ chăm sóc khách hàng sẽ thông báo lịch hẹn của bạn.
+959,Đội ngũ chăm sóc khách hàng sẽ thông báo hồ sơ cần xác minh.
+960,Đội ngũ chăm sóc khách hàng sẽ thông báo kết quả kiểm tra.
+961,Đội ngũ chăm sóc khách hàng đã tiếp nhận yêu cầu của bạn.
+962,Đội ngũ chăm sóc khách hàng đã tiếp nhận thông tin tài khoản.
+963,Đội ngũ chăm sóc khách hàng đã tiếp nhận kết quả giao dịch.
+964,Đội ngũ chăm sóc khách hàng đã tiếp nhận nội dung đăng ký.
+965,Đội ngũ chăm sóc khách hàng đã tiếp nhận thông tin liên hệ.
+966,Đội ngũ chăm sóc khách hàng đã tiếp nhận yêu cầu hỗ trợ.
+967,Đội ngũ chăm sóc khách hàng đã tiếp nhận dữ liệu vừa gửi.
+968,Đội ngũ chăm sóc khách hàng đã tiếp nhận lịch hẹn của bạn.
+969,Đội ngũ chăm sóc khách hàng đã tiếp nhận hồ sơ cần xác minh.
+970,Đội ngũ chăm sóc khách hàng đã tiếp nhận kết quả kiểm tra.
+971,Đội ngũ chăm sóc khách hàng đang chuẩn bị yêu cầu của bạn.
+972,Đội ngũ chăm sóc khách hàng đang chuẩn bị thông tin tài khoản.
+973,Đội ngũ chăm sóc khách hàng đang chuẩn bị kết quả giao dịch.
+974,Đội ngũ chăm sóc khách hàng đang chuẩn bị nội dung đăng ký.
+975,Đội ngũ chăm sóc khách hàng đang chuẩn bị thông tin liên hệ.
+976,Đội ngũ chăm sóc khách hàng đang chuẩn bị yêu cầu hỗ trợ.
+977,Đội ngũ chăm sóc khách hàng đang chuẩn bị dữ liệu vừa gửi.
+978,Đội ngũ chăm sóc khách hàng đang chuẩn bị lịch hẹn của bạn.
+979,Đội ngũ chăm sóc khách hàng đang chuẩn bị hồ sơ cần xác minh.
+980,Đội ngũ chăm sóc khách hàng đang chuẩn bị kết quả kiểm tra.
+981,Đội ngũ chăm sóc khách hàng xin kiểm tra yêu cầu của bạn.
+982,Đội ngũ chăm sóc khách hàng xin kiểm tra thông tin tài khoản.
+983,Đội ngũ chăm sóc khách hàng xin kiểm tra kết quả giao dịch.
+984,Đội ngũ chăm sóc khách hàng xin kiểm tra nội dung đăng ký.
+985,Đội ngũ chăm sóc khách hàng xin kiểm tra thông tin liên hệ.
+986,Đội ngũ chăm sóc khách hàng xin kiểm tra yêu cầu hỗ trợ.
+987,Đội ngũ chăm sóc khách hàng xin kiểm tra dữ liệu vừa gửi.
+988,Đội ngũ chăm sóc khách hàng xin kiểm tra lịch hẹn của bạn.
+989,Đội ngũ chăm sóc khách hàng xin kiểm tra hồ sơ cần xác minh.
+990,Đội ngũ chăm sóc khách hàng xin kiểm tra kết quả kiểm tra.
+991,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin yêu cầu của bạn.
+992,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin thông tin tài khoản.
+993,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin kết quả giao dịch.
+994,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin nội dung đăng ký.
+995,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin thông tin liên hệ.
+996,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin yêu cầu hỗ trợ.
+997,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin dữ liệu vừa gửi.
+998,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin lịch hẹn của bạn.
+999,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin hồ sơ cần xác minh.
+1000,Đội ngũ chăm sóc khách hàng sẽ gửi thông tin kết quả kiểm tra.
